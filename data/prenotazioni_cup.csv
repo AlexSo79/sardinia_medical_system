@@ -1,21 +1,21 @@
-prenotazione_id,paziente_id,nre,prestazione,medico_id,sede,data_ora,stato,canale_prenotazione
+ï»¿prenotazione_id,paziente_id,nre,prestazione,medico_id,sede,data_ora,stato,canale_prenotazione
 6b2a9021-fcc7-4e31-a57f-350ee2328333,77b9b03b-9475-4bf0-bd4e-46c2c079f392,NRE941113243,RM encefalo,1907a08f-aef5-4cf9-8ddf-1dee86140702,Policlinico Monserrato,19/04/2025 14:52,Cancellata,Web
-8e31630f-1fb9-4d4a-9cf0-3386a37ac05f,d562a09a-d108-465b-aff9-eeda036cda39,NRE785291009,Visita Cardiologica,19a82ed6-65e0-4554-9151-c62945c95be5,Clinica Santissima Trinita  - Sassari,25/05/2025 14:52,Cancellata,Farmacia
+8e31630f-1fb9-4d4a-9cf0-3386a37ac05f,d562a09a-d108-465b-aff9-eeda036cda39,NRE785291009,Visita Cardiologica,19a82ed6-65e0-4554-9151-c62945c95be5,Clinica Santissima TrinitaÂ  - Sassari,25/05/2025 14:52,Cancellata,Farmacia
 5604d2cb-05f5-41ff-81b8-b45bb506bc96,d8a17b8f-4c64-41a8-8cb7-ecd69080464a,NRE820643992,RM encefalo,ce1554b8-e2f4-4492-990f-e08ee262f10c,Ospedale Brotzu - Cagliari,19/05/2025 14:52,Erogata,Farmacia
 c4b6bf8d-b958-40ec-8ed2-e576166771c9,7210e06f-d946-4838-93f2-fd1db075fdbd,NRE112513368,Ecografia addome,1907a08f-aef5-4cf9-8ddf-1dee86140702,Policlinico Monserrato,13/05/2025 14:52,Erogata,App
-9e7736c4-c815-47ad-83aa-fcee6a303ec0,d562a09a-d108-465b-aff9-eeda036cda39,NRE898315981,Visita Cardiologica,1907a08f-aef5-4cf9-8ddf-1dee86140702,Clinica Santissima Trinita  - Sassari,22/05/2025 14:52,Prenotata,Call Center
+9e7736c4-c815-47ad-83aa-fcee6a303ec0,d562a09a-d108-465b-aff9-eeda036cda39,NRE898315981,Visita Cardiologica,1907a08f-aef5-4cf9-8ddf-1dee86140702,Clinica Santissima TrinitaÂ  - Sassari,22/05/2025 14:52,Prenotata,Call Center
 b4e7ea9e-38c0-48e0-a06c-4f9ada365ba5,7210e06f-d946-4838-93f2-fd1db075fdbd,NRE637897603,Visita Cardiologica,19a82ed6-65e0-4554-9151-c62945c95be5,Policlinico Monserrato,29/04/2025 14:52,Prenotata,App
 536a5537-06dd-4d07-8734-3b8cc367738e,48455a27-2794-4fad-ba68-a5822a959c55,NRE395780861,RM encefalo,1907a08f-aef5-4cf9-8ddf-1dee86140702,Policlinico Monserrato,26/05/2025 14:52,Erogata,App
 730fe730-0c0e-4595-af74-c2bf12270016,e74d2eb1-c952-4bbd-a3b2-845000e06d0a,NRE286660359,Visita Cardiologica,dfb3e6f6-0da5-4b2e-84c5-a3fac1743c65,Policlinico Monserrato,14/04/2025 14:52,Cancellata,App
-19277f6d-2751-4cb6-bf87-8c7c502f7be7,d562a09a-d108-465b-aff9-eeda036cda39,NRE518362744,Ecografia addome,1ac3c869-53aa-4bcf-9d99-4fc3a60d5320,Clinica Santissima Trinita  - Sassari,13/04/2025 14:52,Cancellata,Call Center
-61c4966b-fb54-4344-aeca-1d6ab9750c7d,7210e06f-d946-4838-93f2-fd1db075fdbd,NRE591167595,Visita Cardiologica,1ac3c869-53aa-4bcf-9d99-4fc3a60d5320,Clinica Santissima Trinita  - Sassari,13/05/2025 14:52,Erogata,App
+19277f6d-2751-4cb6-bf87-8c7c502f7be7,d562a09a-d108-465b-aff9-eeda036cda39,NRE518362744,Ecografia addome,1ac3c869-53aa-4bcf-9d99-4fc3a60d5320,Clinica Santissima TrinitaÂ  - Sassari,13/04/2025 14:52,Cancellata,Call Center
+61c4966b-fb54-4344-aeca-1d6ab9750c7d,7210e06f-d946-4838-93f2-fd1db075fdbd,NRE591167595,Visita Cardiologica,1ac3c869-53aa-4bcf-9d99-4fc3a60d5320,Clinica Santissima TrinitaÂ  - Sassari,13/05/2025 14:52,Erogata,App
 e759f7fa-e8ac-4e87-b37f-8bcce3c927d6,22162843-1ee2-49d6-8cfd-8b2c6726cf2d,NRE531766406,Visita Cardiologica,dfb3e6f6-0da5-4b2e-84c5-a3fac1743c65,Policlinico Monserrato,24/05/2025 14:52,Cancellata,Web
 17bf90c3-e2b1-4a7d-ab63-e36664e1a714,e74d2eb1-c952-4bbd-a3b2-845000e06d0a,NRE960591668,Visita Cardiologica,19a82ed6-65e0-4554-9151-c62945c95be5,Ospedale Brotzu - Cagliari,25/04/2025 14:52,Cancellata,Farmacia
 a2d962fd-5441-482f-a8f5-8c6538a7a8e9,48455a27-2794-4fad-ba68-a5822a959c55,NRE491121352,Visita Dermatologica,1907a08f-aef5-4cf9-8ddf-1dee86140702,Policlinico Monserrato,06/04/2025 14:52,Prenotata,Farmacia
 0bf58932-e325-4cac-b3e9-96680596fc3b,77b9b03b-9475-4bf0-bd4e-46c2c079f392,NRE373062657,RM encefalo,19a82ed6-65e0-4554-9151-c62945c95be5,Ospedale Brotzu - Cagliari,26/05/2025 14:52,Prenotata,Web
 8196a3b3-47ff-4cb5-bc43-d6b43243f3d0,c5a945d2-d8c6-432b-ab4f-7ffad76b30ae,NRE843560660,Visita Dermatologica,ce1554b8-e2f4-4492-990f-e08ee262f10c,Ospedale Brotzu - Cagliari,09/05/2025 14:52,Prenotata,Call Center
 8074a12d-7ed1-4ce9-b490-e7bcd533ee41,7210e06f-d946-4838-93f2-fd1db075fdbd,NRE737951257,Ecografia addome,1ac3c869-53aa-4bcf-9d99-4fc3a60d5320,Policlinico Monserrato,01/06/2025 14:52,Erogata,Farmacia
-cc5569af-c824-4bea-a7c8-854e5499a0a9,e3906aa3-08f0-4dfb-a2c3-a21b062b7975,NRE319158205,Ecografia addome,19a82ed6-65e0-4554-9151-c62945c95be5,Clinica Santissima Trinita  - Sassari,18/05/2025 14:52,Prenotata,App
-199298f1-35cc-4dd1-9bb8-1ebc0b4499ab,c5a945d2-d8c6-432b-ab4f-7ffad76b30ae,NRE251345023,RM encefalo,ce1554b8-e2f4-4492-990f-e08ee262f10c,Clinica Santissima Trinita  - Sassari,17/05/2025 14:52,Prenotata,App
-bf556f4a-a176-4415-9fe3-4fbd018f477b,e3906aa3-08f0-4dfb-a2c3-a21b062b7975,NRE569035250,Visita Dermatologica,1907a08f-aef5-4cf9-8ddf-1dee86140702,Clinica Santissima Trinita  - Sassari,24/04/2025 14:52,Prenotata,Call Center
-15c2cf48-79ec-48da-9296-0aa7f23c1114,e3906aa3-08f0-4dfb-a2c3-a21b062b7975,NRE586729899,Visita Cardiologica,dfb3e6f6-0da5-4b2e-84c5-a3fac1743c65,Clinica Santissima Trinita  - Sassari,04/05/2025 14:52,Prenotata,Call Center
+cc5569af-c824-4bea-a7c8-854e5499a0a9,e3906aa3-08f0-4dfb-a2c3-a21b062b7975,NRE319158205,Ecografia addome,19a82ed6-65e0-4554-9151-c62945c95be5,Clinica Santissima TrinitaÂ  - Sassari,18/05/2025 14:52,Prenotata,App
+199298f1-35cc-4dd1-9bb8-1ebc0b4499ab,c5a945d2-d8c6-432b-ab4f-7ffad76b30ae,NRE251345023,RM encefalo,ce1554b8-e2f4-4492-990f-e08ee262f10c,Clinica Santissima TrinitaÂ  - Sassari,17/05/2025 14:52,Prenotata,App
+bf556f4a-a176-4415-9fe3-4fbd018f477b,e3906aa3-08f0-4dfb-a2c3-a21b062b7975,NRE569035250,Visita Dermatologica,1907a08f-aef5-4cf9-8ddf-1dee86140702,Clinica Santissima TrinitaÂ  - Sassari,24/04/2025 14:52,Prenotata,Call Center
+15c2cf48-79ec-48da-9296-0aa7f23c1114,e3906aa3-08f0-4dfb-a2c3-a21b062b7975,NRE586729899,Visita Cardiologica,dfb3e6f6-0da5-4b2e-84c5-a3fac1743c65,Clinica Santissima TrinitaÂ  - Sassari,04/05/2025 14:52,Prenotata,Call Center
