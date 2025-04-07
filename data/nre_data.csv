@@ -1,0 +1,16 @@
+codice_nre,codice_fiscale_paziente,nome_paziente,cognome_paziente,tipo_prescrizione,descrizione,data_prescrizione,data_scadenza,medico_prescrittore,asl_emittente,stato_ricetta,canale_invio
+NRE454769146,OKNRWP08A38Y407V,Martino,Fallaci,Farmaco,RM encefalo con contrasto,20/11/2024,03/05/2025,Dr. Ravaglioli,ASSL Sassari,Scaduta,App FSE
+NRE218141968,LEJBLL70T40L562M,Liana,Montalti,Visita specialistica,Visita cardiologica,08/03/2025,03/05/2025,Dr. Comeriato,ASSL Sassari,Erogata,SMS
+NRE910090795,CASLEK88J13P436P,Ernesto,Malpighi,Esame diagnostico,RM encefalo con contrasto,26/10/2024,03/05/2025,Dr. Cociarelli,ASSL Sassari,Da erogare,SMS
+NRE608869142,PTNGYX37Z68Q406P,Gaspare,Pavanello,Esame diagnostico,RM encefalo con contrasto,03/03/2025,03/05/2025,Dr. Morpurgo,ASSL Sassari,Erogata,Email
+NRE602365924,XFAPMT65B67K329K,Goffredo,Parri,Esame diagnostico,RM encefalo con contrasto,21/11/2024,03/05/2025,Dr. Passalacqua,ASSL Nuoro,Erogata,SMS
+NRE930630764,RKBRMK27U99D782Y,Nicoletta,Giannini,Farmaco,RM encefalo con contrasto,30/12/2024,03/05/2025,Dr. Tamburini,ASSL Nuoro,Scaduta,SMS
+NRE301164711,STAAKV09X67Z958B,Federico,Verdone,Visita specialistica,Visita cardiologica,04/03/2025,03/05/2025,Dr. Falier,ASSL Sassari,Erogata,Email
+NRE434290606,KIEPCP50O28U779I,Franco,Finotto,Visita specialistica,Visita cardiologica,21/10/2024,03/05/2025,Dr. Vigliotti,ASSL Cagliari,Da erogare,App FSE
+NRE746057008,NVUEBN51P87M855J,Mercedes,Monduzzi,Esame diagnostico,Tachipirina 500mg,30/12/2024,03/05/2025,Dr. Ferragamo,ASSL Sassari,Erogata,SMS
+NRE678033509,DGKDLF68C57Y505X,Imelda,Gremese,Esame diagnostico,RM encefalo con contrasto,14/11/2024,03/05/2025,Dr. Chiappetta,ASSL Cagliari,Erogata,App FSE
+NRE457671619,HFFCPQ42Z78V752I,Carla,Bianchi,Visita specialistica,Tachipirina 500mg,29/12/2024,03/05/2025,Dr. Vendetti,ASSL Cagliari,Erogata,SMS
+NRE494636437,HSANKU02F15U657C,Costantino,Bonino,Farmaco,RM encefalo con contrasto,27/11/2024,03/05/2025,Dr. Correr,ASSL Sassari,Erogata,App FSE
+NRE112785162,RAQZJQ64R56Y684X,Valentina,Argentero,Farmaco,RM encefalo con contrasto,20/02/2025,03/05/2025,Dr. Manacorda,ASSL Nuoro,Erogata,SMS
+NRE781504741,VFPKZW84X99J288K,Gioacchino,Andreotti,Visita specialistica,Tachipirina 500mg,29/10/2024,03/05/2025,Dr. Iadanza,ASSL Nuoro,Scaduta,SMS
+NRE472662833,VFFABC42I92O325G,Orazio,Desio,Esame diagnostico,RM encefalo con contrasto,28/02/2025,03/05/2025,Dr. Vespucci,ASSL Sassari,Scaduta,Cartaceo

@@ -1,0 +1,10 @@
+chroma_data/
+*.env
+notebooks/
+eda/
+todo.md
+Scripts/
+Lib/
+share/
+Include/
+etc/

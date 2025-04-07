@@ -1,0 +1,11 @@
+paziente_id,nome,cognome,codice_fiscale,data_nascita,sesso,indirizzo,email,telefono,consenso_trattamento_dati,data_consenso
+94a26c99-4100-4ac8-83c5-95cffde1fcbc,Ida,Soranzo,UPSAZY57N38K461V,11/06/1983,F,"Stretto Lupo 652 Appartamento 14, Settimo Temistocle ligure, 67591 Forlí, Cesena (SA)",augusto83@gmail.com,+39 023 71704391,FALSE,10/12/2024
+24006bff-f643-46fe-996f-b65b3d551418,Alessio,Nitti,KWULLI81V76S159D,09/11/1977,M,"Strada Baglioni 946, Girolamo lido, 65060 Catanzaro (BA)",dbelletini@hotmail.it,+39 4239 09704390,TRUE,25/06/2023
+6bf05333-7197-4afb-955e-9acaa1b8f9a4,Benedetto,Donati,NVXCUC68J26K150H,11/10/1989,F,"Viale Orazio 700 Appartamento 45, Quarto Patrizia calabro, 49704 Terni (RG)",hugosokolov@poste.it,+39 03 0069109,FALSE,05/06/2022
+27d6010c-a6bb-4e4c-8e11-14acfa2c882e,Giampiero,Tomei,OFHEXW89S47F696H,21/08/1958,F,"Via Gianfranco 7, San Giulia laziale, 27166 Novara (RM)",modiglianigianfrancesco@maderna-poerio.it,+39 710 53 31 6816,FALSE,23/09/2023
+dea04bb8-e2f9-43a7-8690-2ab97b5b6abf,Ivo,Gonzaga,TDHAHE84M68Q589X,25/11/2001,M,"Stretto Dionigi 39 Piano 5, Settimo Angelo ligure, 97596 Savona (KR)",brugnarochiara@malipiero-morgagni.it,+39 217 8874363,FALSE,17/07/2023
+cbf1f953-1fdc-4161-b5d3-a51cd0827ffe,Mercedes,Ceravolo,DDNYFW63D38J178P,04/07/2001,M,"Incrocio Bondumier 897, Settimo Cirillo, 20068 Forlí, Cesena (TE)",binfantino@marinetti.com,+39 919 62700000,FALSE,16/07/2023
+d3b001fd-8631-4e94-a364-d34c22a71818,Liberto,Palmisano,DRMPPG57P87M508C,09/12/1968,F,"Vicolo Irma 4, Rossini a mare, 67827 Enna (ME)",ubertopertini@zabarella.com,+39 12 65634778,FALSE,02/08/2024
+c9ac6d40-10f6-48e4-845e-783341e63a16,Antonia,Traetta,QBLSBO05V87N991X,29/07/1947,M,"Vicolo Annetta 3, Borgo Flavia, 00446 Alessandria (VA)",rossana76@tin.it,+39 42 56222713,TRUE,21/06/2024
+a94f430c-09f5-4c94-9e78-401e1e3b64d8,Giulia,Norbiato,KVCPLO19H19G309N,12/01/1987,F,"Stretto Piccinni 2, Sordi lido, 38117 Asti (PZ)",clelia52@ortese-rienzo.com,+39 944 89 74 9723,FALSE,14/02/2025
+40939654-c5cd-43b3-89f1-e65029330418,Giovanna,Ceravolo,JVPCCS25R43C690W,28/09/1959,F,"Strada Giulio 27 Appartamento 63, Caracciolo a mare, 84628 Terni (PN)",durantegermana@gmail.com,+39 04 71164098,FALSE,10/03/2024
