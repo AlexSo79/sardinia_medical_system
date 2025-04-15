@@ -34,10 +34,6 @@ NODES = [
 ]
 
 def _set_uniqueness_constraints(tx, node):
-    """
-    Crea un constraint di unicità su (n.id)
-    per ogni tipo di nodo definito nella lista NODES.
-    """
     query = f"""
     CREATE CONSTRAINT IF NOT EXISTS FOR (n:{node})
     REQUIRE n.id IS UNIQUE;
@@ -48,7 +44,7 @@ def _set_uniqueness_constraints(tx, node):
 def load_fse_graph_from_csv():
     driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USERNAME, NEO4J_PASSWORD))
 
-    # 1) Imposta i constraint di unicità per ogni nodo
+    # Imposta i constraint di unicità per ogni nodo
     with driver.session(database="neo4j") as session:
         for node in NODES:
             session.execute_write(_set_uniqueness_constraints, node)
@@ -57,9 +53,6 @@ def load_fse_graph_from_csv():
         LOGGER.info(f"Carico i nodi/relazioni per: {label}")
         with driver.session(database="neo4j") as session:
             session.run(query)
-
-    # 2) Importo i dati dai CSV (Pazienti, Medici, Documenti, ecc.)
-    # --- Puoi riutilizzare o modificare le parti già presenti nel tuo script. ---
 
     # Pazienti
     run_query("Paziente", f"""
@@ -209,10 +202,10 @@ def load_fse_graph_from_csv():
         MERGE (m)-[:CONDUCE_SESSIONE]->(s);
     """)
 
-    # Accessi
-    run_query("Accesso", f"""
+     # Accessi per Medici
+    run_query("AccessoMedico", f"""
         LOAD CSV WITH HEADERS FROM '{ACCESSI_CSV_PATH}' AS row
-        WITH row WHERE row.accesso_id IS NOT NULL
+        WITH row WHERE row.accesso_id IS NOT NULL AND row.utente_tipo = 'Medico'
         MERGE (a:Accesso {{
             id: row.accesso_id,
             tipo_utente: row.utente_tipo,
@@ -221,18 +214,24 @@ def load_fse_graph_from_csv():
             ip: row.ip
         }})
         WITH a, row
-        CALL {{
-            WITH a, row
-            WHERE row.utente_tipo = 'Medico'
-            MATCH (m:Medico {{id: row.utente_id}})
-            MERGE (m)-[:HA_EFFETTUATO_ACCESSO]->(a)
-        }}
-        CALL {{
-            WITH a, row
-            WHERE row.utente_tipo = 'Paziente'
-            MATCH (p:Paziente {{id: row.utente_id}})
-            MERGE (p)-[:HA_EFFETTUATO_ACCESSO]->(a)
-        }};
+        MATCH (m:Medico {{id: row.utente_id}})
+        MERGE (m)-[:HA_EFFETTUATO_ACCESSO]->(a);
+    """)
+
+    # Accessi per Pazienti
+    run_query("AccessoPaziente", f"""
+        LOAD CSV WITH HEADERS FROM '{ACCESSI_CSV_PATH}' AS row
+        WITH row WHERE row.accesso_id IS NOT NULL AND row.utente_tipo = 'Paziente'
+        MERGE (a:Accesso {{
+            id: row.accesso_id,
+            tipo_utente: row.utente_tipo,
+            azione: row.azione,
+            data_accesso: row.data_accesso,
+            ip: row.ip
+        }})
+        WITH a, row
+        MATCH (p:Paziente {{id: row.utente_id}})
+        MERGE (p)-[:HA_EFFETTUATO_ACCESSO]->(a);
     """)
 
     # Ricette (dai dati di nre_data.csv)
@@ -270,20 +269,21 @@ def load_fse_graph_from_csv():
         }});
     """)
 
-    # 3) Import ListaAttesa (nuova struttura)
+    #  ListaAttesa (nuova struttura: ente, prestazione, Priorita, max_giorni_di_attesa)
     run_query("ListaAttesa", f"""
         LOAD CSV WITH HEADERS FROM '{LISTA_DI_ATTESA_CSV_PATH}' AS row
         MERGE (la:ListaAttesa {{
-            id: row.ente + '_' + row.prestazione + '_' + row.priorita,
+            id: row.ente + '_' + row.prestazione + '_' + coalesce(row.priorita, "NA"),
             ente: row.ente,
             prestazione: row.prestazione,
-            priorita: row.priorita,
+            priorita: coalesce(row.priorita, "NA"),
             max_giorni_di_attesa: row.max_giorni_di_attesa
         }})
         WITH la, row
+        WHERE row.max_giorni_di_attesa IS NOT NULL AND row.max_giorni_di_attesa <> ''
         MATCH (o:Ospedale {{ente: row.ente}})
         MERGE (la)-[:RIFERISCE_A {{
-          max_giorni: toInteger(row.max_giorni_di_attesa)
+            max_giorni: toInteger(row.max_giorni_di_attesa)
         }}]->(o);
     """)
 
