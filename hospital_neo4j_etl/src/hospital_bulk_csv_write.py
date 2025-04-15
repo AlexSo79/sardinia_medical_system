@@ -271,21 +271,23 @@ def load_fse_graph_from_csv():
 
     #  ListaAttesa (nuova struttura: ente, prestazione, Priorita, max_giorni_di_attesa)
     run_query("ListaAttesa", f"""
-        LOAD CSV WITH HEADERS FROM '{LISTA_DI_ATTESA_CSV_PATH}' AS row
-        MERGE (la:ListaAttesa {{
-            id: row.ente + '_' + row.prestazione + '_' + coalesce(row.priorita, "NA"),
-            ente: row.ente,
-            prestazione: row.prestazione,
-            priorita: coalesce(row.priorita, "NA"),
-            max_giorni_di_attesa: row.max_giorni_di_attesa
-        }})
-        WITH la, row
-        WHERE row.max_giorni_di_attesa IS NOT NULL AND row.max_giorni_di_attesa <> ''
-        MATCH (o:Ospedale {{ente: row.ente}})
-        MERGE (la)-[:RIFERISCE_A {{
-            max_giorni: toInteger(row.max_giorni_di_attesa)
-        }}]->(o);
-    """)
+    LOAD CSV WITH HEADERS FROM '{LISTA_DI_ATTESA_CSV_PATH}' AS row
+    MERGE (la:ListaAttesa {{
+        id: row.ente + '_' + row.prestazione + '_' + row.priorita,
+        ente: row.ente,
+        prestazione: row.prestazione,
+        priorita: row.priorita,
+        max_giorni_di_attesa: row.max_giorni_di_attesa
+    }})
+    WITH la, row
+    MATCH (o:Ospedale {{ ente: row.ente }})
+    MERGE (la)-[:RIFERISCE_A {{
+        max_giorni: CASE 
+            WHEN row.max_giorni_di_attesa = 'Non Disponibile' THEN -1 
+            ELSE toInteger(row.max_giorni_di_attesa) 
+        END
+    }}]->(o);
+""")
 
     LOGGER.info("Caricamento completo del grafo sanitario.")
     driver.close()
