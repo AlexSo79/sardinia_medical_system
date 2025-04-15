@@ -1,0 +1,2161 @@
+﻿ente,prestazione,priorita,max_giorni_di_attesa
+ASSL1,Prima Visita cardiologica,Breve,6
+ASSL1,Prima Visita chirurgia vascolare,Breve,7
+ASSL1,Prima Visita endocrinologica,Breve,n/a
+ASSL1,Prima Visita neurologica,Breve,6
+ASSL1,Prima Visita oculistica,Breve,7
+ASSL1,Prima Visita ortopedica,Breve,7
+ASSL1,Prima Visita ginecologica,Breve,n/a
+ASSL1,Prima Visita otorinolaringoiatrica,Breve,n/a
+ASSL1,Prima Visita urologica,Breve,n/a
+ASSL1,Prima Visita dermatologica,Breve,n/a
+ASSL1,Prima Visita fisiatrica,Breve,10
+ASSL1,Prima Visita gastroenterologica,Breve,n/a
+ASSL1,Prima Visita oncologica,Breve,n/a
+ASSL1,Prima Visita pneumologica,Breve,n/a
+ASSL1,Mammografia bilaterale,Breve,6
+ASSL1,Mammografia monolaterale,Breve,n/a
+ASSL1,TC del torace,Breve,7
+ASSL1,"TC del torace, senza e con contrasto",Breve,10
+ASSL1,TC dell'addome superiore,Breve,n/a
+ASSL1,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ASSL1,TC dell'Addome inferiore,Breve,n/a
+ASSL1,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ASSL1,TC dell'Addome completo,Breve,n/a
+ASSL1,"TC dell'Addome completo, senza e con contrasto",Breve,n/a
+ASSL1,TC del cranio e dell'encefalo,Breve,n/a
+ASSL1,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL1,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL1,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL1,TC del Bacino,Breve,n/a
+ASSL1,RM del cervello e del tronco encefalico,Breve,n/a
+ASSL1,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,2
+ASSL1,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL1,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL1,RM della colonna,Breve,n/a
+ASSL1,"RM della colonna, senza e con contrasto",Breve,1
+ASSL1,Diagnostica ecografica del capo e del collo,Breve,4
+ASSL1,Eco (color) dopplergrafia cardiaca,Breve,n/a
+ASSL1,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,7
+ASSL1,Ecografia dell'addome superiore,Breve,6
+ASSL1,Ecografia dell'addome inferiore,Breve,5
+ASSL1,Ecografia dell'addome completo,Breve,6
+ASSL1,Ecografia bilaterale della mammella,Breve,4
+ASSL1,Ecografia monolaterale della mammella,Breve,n/a
+ASSL1,Ecografia ostetrica,Breve,n/a
+ASSL1,Ecografia ginecologica,Breve,n/a
+ASSL1,Ecocolordoppler degli arti superioro o inferiori,Breve,8
+ASSL1,Colonscopia con endoscopio flessibile,Breve,10
+ASSL1,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL1,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL1,Esofagogastroduodenoscopia,Breve,8
+ASSL1,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ASSL1,Elettrocardiogramma,Breve,3
+ASSL1,Elettrocardiogramma dinamico (Holter),Breve,n/a
+ASSL1,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL1,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL1,Esame audiometrico tonale,Breve,3
+ASSL1,Spirometria semplice,Breve,n/a
+ASSL1,Spirometria globale,Breve,8
+ASSL1,Fotografia del Fondus,Breve,n/a
+ASSL1,Elettromiografia semplice [EMG],Breve,n/a
+ASSL1,Prima Visita cardiologica,Differibile,84
+ASSL1,Prima Visita chirurgia vascolare,Differibile,170
+ASSL1,Prima Visita endocrinologica,Differibile,n/a
+ASSL1,Prima Visita neurologica,Differibile,67
+ASSL1,Prima Visita oculistica,Differibile,185
+ASSL1,Prima Visita ortopedica,Differibile,72
+ASSL1,Prima Visita ginecologica,Differibile,26
+ASSL1,Prima Visita otorinolaringoiatrica,Differibile,39
+ASSL1,Prima Visita urologica,Differibile,158
+ASSL1,Prima Visita dermatologica,Differibile,193
+ASSL1,Prima Visita fisiatrica,Differibile,180
+ASSL1,Prima Visita gastroenterologica,Differibile,7
+ASSL1,Prima Visita oncologica,Differibile,n/a
+ASSL1,Prima Visita pneumologica,Differibile,60
+ASSL1,Mammografia bilaterale,Differibile,145
+ASSL1,Mammografia monolaterale,Differibile,118
+ASSL1,TC del torace,Differibile,102
+ASSL1,"TC del torace, senza e con contrasto",Differibile,128
+ASSL1,TC dell'addome superiore,Differibile,n/a
+ASSL1,"TC dell'addome superiore, senza e con contrasto",Differibile,166
+ASSL1,TC dell'Addome inferiore,Differibile,n/a
+ASSL1,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ASSL1,TC dell'Addome completo,Differibile,10
+ASSL1,"TC dell'Addome completo, senza e con contrasto",Differibile,113
+ASSL1,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL1,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ASSL1,TC del rachide e dello speco vertebrale,Differibile,n/a
+ASSL1,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL1,TC del Bacino,Differibile,6
+ASSL1,RM del cervello e del tronco encefalico,Differibile,n/a
+ASSL1,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,8
+ASSL1,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ASSL1,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+ASSL1,RM della colonna,Differibile,n/a
+ASSL1,"RM della colonna, senza e con contrasto",Differibile,1
+ASSL1,Diagnostica ecografica del capo e del collo,Differibile,102
+ASSL1,Eco (color) dopplergrafia cardiaca,Differibile,204
+ASSL1,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,92
+ASSL1,Ecografia dell'addome superiore,Differibile,55
+ASSL1,Ecografia dell'addome inferiore,Differibile,110
+ASSL1,Ecografia dell'addome completo,Differibile,56
+ASSL1,Ecografia bilaterale della mammella,Differibile,153
+ASSL1,Ecografia monolaterale della mammella,Differibile,n/a
+ASSL1,Ecografia ostetrica,Differibile,n/a
+ASSL1,Ecografia ginecologica,Differibile,33
+ASSL1,Ecocolordoppler degli arti superioro o inferiori,Differibile,9
+ASSL1,Colonscopia con endoscopio flessibile,Differibile,n/a
+ASSL1,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL1,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL1,Esofagogastroduodenoscopia,Differibile,186
+ASSL1,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+ASSL1,Elettrocardiogramma,Differibile,84
+ASSL1,Elettrocardiogramma dinamico (Holter),Differibile,n/a
+ASSL1,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+ASSL1,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL1,Esame audiometrico tonale,Differibile,22
+ASSL1,Spirometria semplice,Differibile,132
+ASSL1,Spirometria globale,Differibile,152
+ASSL1,Fotografia del Fondus,Differibile,52
+ASSL1,Elettromiografia semplice [EMG],Differibile,n/a
+ASSL1,Prima Visita cardiologica,Programmabile,87
+ASSL1,Prima Visita chirurgia vascolare,Programmabile,n/a
+ASSL1,Prima Visita endocrinologica,Programmabile,285
+ASSL1,Prima Visita neurologica,Programmabile,70
+ASSL1,Prima Visita oculistica,Programmabile,190
+ASSL1,Prima Visita ortopedica,Programmabile,84
+ASSL1,Prima Visita ginecologica,Programmabile,58
+ASSL1,Prima Visita otorinolaringoiatrica,Programmabile,35
+ASSL1,Prima Visita urologica,Programmabile,221
+ASSL1,Prima Visita dermatologica,Programmabile,185
+ASSL1,Prima Visita fisiatrica,Programmabile,119
+ASSL1,Prima Visita gastroenterologica,Programmabile,n/a
+ASSL1,Prima Visita oncologica,Programmabile,n/a
+ASSL1,Prima Visita pneumologica,Programmabile,11
+ASSL1,Mammografia bilaterale,Programmabile,125
+ASSL1,Mammografia monolaterale,Programmabile,82
+ASSL1,TC del torace,Programmabile,133
+ASSL1,"TC del torace, senza e con contrasto",Programmabile,202
+ASSL1,TC dell'addome superiore,Programmabile,n/a
+ASSL1,"TC dell'addome superiore, senza e con contrasto",Programmabile,n/a
+ASSL1,TC dell'Addome inferiore,Programmabile,n/a
+ASSL1,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+ASSL1,TC dell'Addome completo,Programmabile,2
+ASSL1,"TC dell'Addome completo, senza e con contrasto",Programmabile,196
+ASSL1,TC del cranio e dell'encefalo,Programmabile,121
+ASSL1,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,185
+ASSL1,TC del rachide e dello speco vertebrale,Programmabile,n/a
+ASSL1,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL1,TC del Bacino,Programmabile,n/a
+ASSL1,RM del cervello e del tronco encefalico,Programmabile,n/a
+ASSL1,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,n/a
+ASSL1,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ASSL1,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+ASSL1,RM della colonna,Programmabile,n/a
+ASSL1,"RM della colonna, senza e con contrasto",Programmabile,1
+ASSL1,Diagnostica ecografica del capo e del collo,Programmabile,137
+ASSL1,Eco (color) dopplergrafia cardiaca,Programmabile,206
+ASSL1,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,85
+ASSL1,Ecografia dell'addome superiore,Programmabile,163
+ASSL1,Ecografia dell'addome inferiore,Programmabile,123
+ASSL1,Ecografia dell'addome completo,Programmabile,113
+ASSL1,Ecografia bilaterale della mammella,Programmabile,114
+ASSL1,Ecografia monolaterale della mammella,Programmabile,n/a
+ASSL1,Ecografia ostetrica,Programmabile,n/a
+ASSL1,Ecografia ginecologica,Programmabile,34
+ASSL1,Ecocolordoppler degli arti superioro o inferiori,Programmabile,4
+ASSL1,Colonscopia con endoscopio flessibile,Programmabile,n/a
+ASSL1,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL1,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ASSL1,Esofagogastroduodenoscopia,Programmabile,n/a
+ASSL1,Esofagogastroduodenoscopia con biopsia,Programmabile,n/a
+ASSL1,Elettrocardiogramma,Programmabile,97
+ASSL1,Elettrocardiogramma dinamico (Holter),Programmabile,n/a
+ASSL1,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+ASSL1,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL1,Esame audiometrico tonale,Programmabile,35
+ASSL1,Spirometria semplice,Programmabile,63
+ASSL1,Spirometria globale,Programmabile,248
+ASSL1,Fotografia del Fondus,Programmabile,n/a
+ASSL1,Elettromiografia semplice [EMG],Programmabile,n/a
+ASSL2,Prima Visita cardiologica,Breve,8
+ASSL2,Prima Visita chirurgia vascolare,Breve,n/a
+ASSL2,Prima Visita endocrinologica,Breve,n/a
+ASSL2,Prima Visita neurologica,Breve,7
+ASSL2,Prima Visita oculistica,Breve,7
+ASSL2,Prima Visita ortopedica,Breve,n/a
+ASSL2,Prima Visita ginecologica,Breve,n/a
+ASSL2,Prima Visita otorinolaringoiatrica,Breve,10
+ASSL2,Prima Visita urologica,Breve,n/a
+ASSL2,Prima Visita dermatologica,Breve,n/a
+ASSL2,Prima Visita fisiatrica,Breve,3
+ASSL2,Prima Visita gastroenterologica,Breve,n/a
+ASSL2,Prima Visita oncologica,Breve,n/a
+ASSL2,Prima Visita pneumologica,Breve,n/a
+ASSL2,Mammografia bilaterale,Breve,n/a
+ASSL2,Mammografia monolaterale,Breve,n/a
+ASSL2,TC del torace,Breve,10
+ASSL2,"TC del torace, senza e con contrasto",Breve,n/a
+ASSL2,TC dell'addome superiore,Breve,n/a
+ASSL2,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ASSL2,TC dell'Addome inferiore,Breve,n/a
+ASSL2,"TC dell'Addome inferiore, senza e con contrasto",Breve,10
+ASSL2,TC dell'Addome completo,Breve,8
+ASSL2,"TC dell'Addome completo, senza e con contrasto",Breve,9
+ASSL2,TC del cranio e dell'encefalo,Breve,n/a
+ASSL2,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL2,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL2,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL2,TC del Bacino,Breve,n/a
+ASSL2,RM del cervello e del tronco encefalico,Breve,n/a
+ASSL2,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,n/a
+ASSL2,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL2,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL2,RM della colonna,Breve,n/a
+ASSL2,"RM della colonna, senza e con contrasto",Breve,n/a
+ASSL2,Diagnostica ecografica del capo e del collo,Breve,9
+ASSL2,Eco (color) dopplergrafia cardiaca,Breve,n/a
+ASSL2,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,n/a
+ASSL2,Ecografia dell'addome superiore,Breve,n/a
+ASSL2,Ecografia dell'addome inferiore,Breve,n/a
+ASSL2,Ecografia dell'addome completo,Breve,6
+ASSL2,Ecografia bilaterale della mammella,Breve,n/a
+ASSL2,Ecografia monolaterale della mammella,Breve,n/a
+ASSL2,Ecografia ostetrica,Breve,n/a
+ASSL2,Ecografia ginecologica,Breve,6
+ASSL2,Ecocolordoppler degli arti superioro o inferiori,Breve,n/a
+ASSL2,Colonscopia con endoscopio flessibile,Breve,9
+ASSL2,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL2,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL2,Esofagogastroduodenoscopia,Breve,6
+ASSL2,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ASSL2,Elettrocardiogramma,Breve,8
+ASSL2,Elettrocardiogramma dinamico (Holter),Breve,n/a
+ASSL2,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL2,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL2,Esame audiometrico tonale,Breve,n/a
+ASSL2,Spirometria semplice,Breve,n/a
+ASSL2,Spirometria globale,Breve,n/a
+ASSL2,Fotografia del Fondus,Breve,n/a
+ASSL2,Elettromiografia semplice [EMG],Breve,n/a
+ASSL2,Prima Visita cardiologica,Differibile,89
+ASSL2,Prima Visita chirurgia vascolare,Differibile,n/a
+ASSL2,Prima Visita endocrinologica,Differibile,335
+ASSL2,Prima Visita neurologica,Differibile,42
+ASSL2,Prima Visita oculistica,Differibile,132
+ASSL2,Prima Visita ortopedica,Differibile,41
+ASSL2,Prima Visita ginecologica,Differibile,53
+ASSL2,Prima Visita otorinolaringoiatrica,Differibile,100
+ASSL2,Prima Visita urologica,Differibile,n/a
+ASSL2,Prima Visita dermatologica,Differibile,71
+ASSL2,Prima Visita fisiatrica,Differibile,103
+ASSL2,Prima Visita gastroenterologica,Differibile,n/a
+ASSL2,Prima Visita oncologica,Differibile,n/a
+ASSL2,Prima Visita pneumologica,Differibile,230
+ASSL2,Mammografia bilaterale,Differibile,136
+ASSL2,Mammografia monolaterale,Differibile,n/a
+ASSL2,TC del torace,Differibile,42
+ASSL2,"TC del torace, senza e con contrasto",Differibile,31
+ASSL2,TC dell'addome superiore,Differibile,n/a
+ASSL2,"TC dell'addome superiore, senza e con contrasto",Differibile,40
+ASSL2,TC dell'Addome inferiore,Differibile,n/a
+ASSL2,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ASSL2,TC dell'Addome completo,Differibile,39
+ASSL2,"TC dell'Addome completo, senza e con contrasto",Differibile,28
+ASSL2,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL2,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,29
+ASSL2,TC del rachide e dello speco vertebrale,Differibile,n/a
+ASSL2,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL2,TC del Bacino,Differibile,n/a
+ASSL2,RM del cervello e del tronco encefalico,Differibile,n/a
+ASSL2,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,n/a
+ASSL2,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ASSL2,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+ASSL2,RM della colonna,Differibile,n/a
+ASSL2,"RM della colonna, senza e con contrasto",Differibile,n/a
+ASSL2,Diagnostica ecografica del capo e del collo,Differibile,190
+ASSL2,Eco (color) dopplergrafia cardiaca,Differibile,n/a
+ASSL2,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,44
+ASSL2,Ecografia dell'addome superiore,Differibile,140
+ASSL2,Ecografia dell'addome inferiore,Differibile,151
+ASSL2,Ecografia dell'addome completo,Differibile,124
+ASSL2,Ecografia bilaterale della mammella,Differibile,122
+ASSL2,Ecografia monolaterale della mammella,Differibile,n/a
+ASSL2,Ecografia ostetrica,Differibile,n/a
+ASSL2,Ecografia ginecologica,Differibile,96
+ASSL2,Ecocolordoppler degli arti superioro o inferiori,Differibile,n/a
+ASSL2,Colonscopia con endoscopio flessibile,Differibile,160
+ASSL2,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL2,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL2,Esofagogastroduodenoscopia,Differibile,81
+ASSL2,Esofagogastroduodenoscopia con biopsia,Differibile,317
+ASSL2,Elettrocardiogramma,Differibile,89
+ASSL2,Elettrocardiogramma dinamico (Holter),Differibile,n/a
+ASSL2,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+ASSL2,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL2,Esame audiometrico tonale,Differibile,n/a
+ASSL2,Spirometria semplice,Differibile,n/a
+ASSL2,Spirometria globale,Differibile,n/a
+ASSL2,Fotografia del Fondus,Differibile,n/a
+ASSL2,Elettromiografia semplice [EMG],Differibile,n/a
+ASSL2,Prima Visita cardiologica,Programmabile,178
+ASSL2,Prima Visita chirurgia vascolare,Programmabile,n/a
+ASSL2,Prima Visita endocrinologica,Programmabile,n/a
+ASSL2,Prima Visita neurologica,Programmabile,76
+ASSL2,Prima Visita oculistica,Programmabile,172
+ASSL2,Prima Visita ortopedica,Programmabile,41
+ASSL2,Prima Visita ginecologica,Programmabile,111
+ASSL2,Prima Visita otorinolaringoiatrica,Programmabile,117
+ASSL2,Prima Visita urologica,Programmabile,290
+ASSL2,Prima Visita dermatologica,Programmabile,144
+ASSL2,Prima Visita fisiatrica,Programmabile,n/a
+ASSL2,Prima Visita gastroenterologica,Programmabile,n/a
+ASSL2,Prima Visita oncologica,Programmabile,n/a
+ASSL2,Prima Visita pneumologica,Programmabile,n/a
+ASSL2,Mammografia bilaterale,Programmabile,136
+ASSL2,Mammografia monolaterale,Programmabile,n/a
+ASSL2,TC del torace,Programmabile,50
+ASSL2,"TC del torace, senza e con contrasto",Programmabile,57
+ASSL2,TC dell'addome superiore,Programmabile,n/a
+ASSL2,"TC dell'addome superiore, senza e con contrasto",Programmabile,27
+ASSL2,TC dell'Addome inferiore,Programmabile,n/a
+ASSL2,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+ASSL2,TC dell'Addome completo,Programmabile,22
+ASSL2,"TC dell'Addome completo, senza e con contrasto",Programmabile,46
+ASSL2,TC del cranio e dell'encefalo,Programmabile,n/a
+ASSL2,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,37
+ASSL2,TC del rachide e dello speco vertebrale,Programmabile,n/a
+ASSL2,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL2,TC del Bacino,Programmabile,n/a
+ASSL2,RM del cervello e del tronco encefalico,Programmabile,n/a
+ASSL2,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,n/a
+ASSL2,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ASSL2,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+ASSL2,RM della colonna,Programmabile,n/a
+ASSL2,"RM della colonna, senza e con contrasto",Programmabile,n/a
+ASSL2,Diagnostica ecografica del capo e del collo,Programmabile,n/a
+ASSL2,Eco (color) dopplergrafia cardiaca,Programmabile,n/a
+ASSL2,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,23
+ASSL2,Ecografia dell'addome superiore,Programmabile,n/a
+ASSL2,Ecografia dell'addome inferiore,Programmabile,137
+ASSL2,Ecografia dell'addome completo,Programmabile,121
+ASSL2,Ecografia bilaterale della mammella,Programmabile,113
+ASSL2,Ecografia monolaterale della mammella,Programmabile,n/a
+ASSL2,Ecografia ostetrica,Programmabile,14
+ASSL2,Ecografia ginecologica,Programmabile,143
+ASSL2,Ecocolordoppler degli arti superioro o inferiori,Programmabile,n/a
+ASSL2,Colonscopia con endoscopio flessibile,Programmabile,n/a
+ASSL2,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL2,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ASSL2,Esofagogastroduodenoscopia,Programmabile,328
+ASSL2,Esofagogastroduodenoscopia con biopsia,Programmabile,37
+ASSL2,Elettrocardiogramma,Programmabile,177
+ASSL2,Elettrocardiogramma dinamico (Holter),Programmabile,n/a
+ASSL2,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+ASSL2,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL2,Esame audiometrico tonale,Programmabile,n/a
+ASSL2,Spirometria semplice,Programmabile,n/a
+ASSL2,Spirometria globale,Programmabile,n/a
+ASSL2,Fotografia del Fondus,Programmabile,n/a
+ASSL2,Elettromiografia semplice [EMG],Programmabile,68
+ASSL3,Prima Visita cardiologica,Breve,5
+ASSL3,Prima Visita chirurgia vascolare,Breve,n/a
+ASSL3,Prima Visita endocrinologica,Breve,n/a
+ASSL3,Prima Visita neurologica,Breve,9
+ASSL3,Prima Visita oculistica,Breve,7
+ASSL3,Prima Visita ortopedica,Breve,9
+ASSL3,Prima Visita ginecologica,Breve,n/a
+ASSL3,Prima Visita otorinolaringoiatrica,Breve,n/a
+ASSL3,Prima Visita urologica,Breve,n/a
+ASSL3,Prima Visita dermatologica,Breve,59
+ASSL3,Prima Visita fisiatrica,Breve,8
+ASSL3,Prima Visita gastroenterologica,Breve,n/a
+ASSL3,Prima Visita oncologica,Breve,n/a
+ASSL3,Prima Visita pneumologica,Breve,9
+ASSL3,Mammografia bilaterale,Breve,8
+ASSL3,Mammografia monolaterale,Breve,n/a
+ASSL3,TC del torace,Breve,n/a
+ASSL3,"TC del torace, senza e con contrasto",Breve,n/a
+ASSL3,TC dell'addome superiore,Breve,n/a
+ASSL3,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ASSL3,TC dell'Addome inferiore,Breve,n/a
+ASSL3,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ASSL3,TC dell'Addome completo,Breve,n/a
+ASSL3,"TC dell'Addome completo, senza e con contrasto",Breve,n/a
+ASSL3,TC del cranio e dell'encefalo,Breve,9
+ASSL3,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL3,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL3,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL3,TC del Bacino,Breve,n/a
+ASSL3,RM del cervello e del tronco encefalico,Breve,10
+ASSL3,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,3
+ASSL3,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL3,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL3,RM della colonna,Breve,n/a
+ASSL3,"RM della colonna, senza e con contrasto",Breve,n/a
+ASSL3,Diagnostica ecografica del capo e del collo,Breve,9
+ASSL3,Eco (color) dopplergrafia cardiaca,Breve,n/a
+ASSL3,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,9
+ASSL3,Ecografia dell'addome superiore,Breve,2
+ASSL3,Ecografia dell'addome inferiore,Breve,n/a
+ASSL3,Ecografia dell'addome completo,Breve,8
+ASSL3,Ecografia bilaterale della mammella,Breve,7
+ASSL3,Ecografia monolaterale della mammella,Breve,5
+ASSL3,Ecografia ostetrica,Breve,n/a
+ASSL3,Ecografia ginecologica,Breve,8
+ASSL3,Ecocolordoppler degli arti superioro o inferiori,Breve,9
+ASSL3,Colonscopia con endoscopio flessibile,Breve,10
+ASSL3,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL3,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL3,Esofagogastroduodenoscopia,Breve,177
+ASSL3,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ASSL3,Elettrocardiogramma,Breve,3
+ASSL3,Elettrocardiogramma dinamico (Holter),Breve,n/a
+ASSL3,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL3,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL3,Esame audiometrico tonale,Breve,n/a
+ASSL3,Spirometria semplice,Breve,n/a
+ASSL3,Spirometria globale,Breve,8
+ASSL3,Fotografia del Fondus,Breve,n/a
+ASSL3,Elettromiografia semplice [EMG],Breve,n/a
+ASSL3,Prima Visita cardiologica,Differibile,106
+ASSL3,Prima Visita chirurgia vascolare,Differibile,115
+ASSL3,Prima Visita endocrinologica,Differibile,401
+ASSL3,Prima Visita neurologica,Differibile,148
+ASSL3,Prima Visita oculistica,Differibile,222
+ASSL3,Prima Visita ortopedica,Differibile,102
+ASSL3,Prima Visita ginecologica,Differibile,19
+ASSL3,Prima Visita otorinolaringoiatrica,Differibile,61
+ASSL3,Prima Visita urologica,Differibile,326
+ASSL3,Prima Visita dermatologica,Differibile,140
+ASSL3,Prima Visita fisiatrica,Differibile,83
+ASSL3,Prima Visita gastroenterologica,Differibile,n/a
+ASSL3,Prima Visita oncologica,Differibile,278
+ASSL3,Prima Visita pneumologica,Differibile,163
+ASSL3,Mammografia bilaterale,Differibile,108
+ASSL3,Mammografia monolaterale,Differibile,n/a
+ASSL3,TC del torace,Differibile,61
+ASSL3,"TC del torace, senza e con contrasto",Differibile,42
+ASSL3,TC dell'addome superiore,Differibile,n/a
+ASSL3,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+ASSL3,TC dell'Addome inferiore,Differibile,n/a
+ASSL3,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ASSL3,TC dell'Addome completo,Differibile,73
+ASSL3,"TC dell'Addome completo, senza e con contrasto",Differibile,48
+ASSL3,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL3,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ASSL3,TC del rachide e dello speco vertebrale,Differibile,n/a
+ASSL3,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL3,TC del Bacino,Differibile,75
+ASSL3,RM del cervello e del tronco encefalico,Differibile,554
+ASSL3,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,459
+ASSL3,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ASSL3,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+ASSL3,RM della colonna,Differibile,129
+ASSL3,"RM della colonna, senza e con contrasto",Differibile,n/a
+ASSL3,Diagnostica ecografica del capo e del collo,Differibile,118
+ASSL3,Eco (color) dopplergrafia cardiaca,Differibile,148
+ASSL3,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,105
+ASSL3,Ecografia dell'addome superiore,Differibile,73
+ASSL3,Ecografia dell'addome inferiore,Differibile,93
+ASSL3,Ecografia dell'addome completo,Differibile,99
+ASSL3,Ecografia bilaterale della mammella,Differibile,70
+ASSL3,Ecografia monolaterale della mammella,Differibile,n/a
+ASSL3,Ecografia ostetrica,Differibile,25
+ASSL3,Ecografia ginecologica,Differibile,28
+ASSL3,Ecocolordoppler degli arti superioro o inferiori,Differibile,91
+ASSL3,Colonscopia con endoscopio flessibile,Differibile,580
+ASSL3,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL3,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL3,Esofagogastroduodenoscopia,Differibile,255
+ASSL3,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+ASSL3,Elettrocardiogramma,Differibile,75
+ASSL3,Elettrocardiogramma dinamico (Holter),Differibile,0
+ASSL3,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,250
+ASSL3,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL3,Esame audiometrico tonale,Differibile,15
+ASSL3,Spirometria semplice,Differibile,273
+ASSL3,Spirometria globale,Differibile,145
+ASSL3,Fotografia del Fondus,Differibile,n/a
+ASSL3,Elettromiografia semplice [EMG],Differibile,7
+ASSL3,Prima Visita cardiologica,Programmabile,111
+ASSL3,Prima Visita chirurgia vascolare,Programmabile,331
+ASSL3,Prima Visita endocrinologica,Programmabile,n/a
+ASSL3,Prima Visita neurologica,Programmabile,197
+ASSL3,Prima Visita oculistica,Programmabile,352
+ASSL3,Prima Visita ortopedica,Programmabile,93
+ASSL3,Prima Visita ginecologica,Programmabile,3
+ASSL3,Prima Visita otorinolaringoiatrica,Programmabile,166
+ASSL3,Prima Visita urologica,Programmabile,n/a
+ASSL3,Prima Visita dermatologica,Programmabile,151
+ASSL3,Prima Visita fisiatrica,Programmabile,100
+ASSL3,Prima Visita gastroenterologica,Programmabile,n/a
+ASSL3,Prima Visita oncologica,Programmabile,272
+ASSL3,Prima Visita pneumologica,Programmabile,103
+ASSL3,Mammografia bilaterale,Programmabile,70
+ASSL3,Mammografia monolaterale,Programmabile,1
+ASSL3,TC del torace,Programmabile,71
+ASSL3,"TC del torace, senza e con contrasto",Programmabile,1
+ASSL3,TC dell'addome superiore,Programmabile,n/a
+ASSL3,"TC dell'addome superiore, senza e con contrasto",Programmabile,n/a
+ASSL3,TC dell'Addome inferiore,Programmabile,n/a
+ASSL3,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+ASSL3,TC dell'Addome completo,Programmabile,n/a
+ASSL3,"TC dell'Addome completo, senza e con contrasto",Programmabile,245
+ASSL3,TC del cranio e dell'encefalo,Programmabile,75
+ASSL3,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+ASSL3,TC del rachide e dello speco vertebrale,Programmabile,n/a
+ASSL3,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL3,TC del Bacino,Programmabile,n/a
+ASSL3,RM del cervello e del tronco encefalico,Programmabile,163
+ASSL3,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,579
+ASSL3,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ASSL3,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+ASSL3,RM della colonna,Programmabile,173
+ASSL3,"RM della colonna, senza e con contrasto",Programmabile,n/a
+ASSL3,Diagnostica ecografica del capo e del collo,Programmabile,149
+ASSL3,Eco (color) dopplergrafia cardiaca,Programmabile,138
+ASSL3,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,106
+ASSL3,Ecografia dell'addome superiore,Programmabile,35
+ASSL3,Ecografia dell'addome inferiore,Programmabile,81
+ASSL3,Ecografia dell'addome completo,Programmabile,123
+ASSL3,Ecografia bilaterale della mammella,Programmabile,43
+ASSL3,Ecografia monolaterale della mammella,Programmabile,0
+ASSL3,Ecografia ostetrica,Programmabile,50
+ASSL3,Ecografia ginecologica,Programmabile,6
+ASSL3,Ecocolordoppler degli arti superioro o inferiori,Programmabile,298
+ASSL3,Colonscopia con endoscopio flessibile,Programmabile,685
+ASSL3,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL3,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ASSL3,Esofagogastroduodenoscopia,Programmabile,n/a
+ASSL3,Esofagogastroduodenoscopia con biopsia,Programmabile,494
+ASSL3,Elettrocardiogramma,Programmabile,118
+ASSL3,Elettrocardiogramma dinamico (Holter),Programmabile,n/a
+ASSL3,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,388
+ASSL3,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL3,Esame audiometrico tonale,Programmabile,15
+ASSL3,Spirometria semplice,Programmabile,167
+ASSL3,Spirometria globale,Programmabile,241
+ASSL3,Fotografia del Fondus,Programmabile,n/a
+ASSL3,Elettromiografia semplice [EMG],Programmabile,7
+ASSL4,Prima Visita cardiologica,Breve,10
+ASSL4,Prima Visita chirurgia vascolare,Breve,n/a
+ASSL4,Prima Visita endocrinologica,Breve,n/a
+ASSL4,Prima Visita neurologica,Breve,7
+ASSL4,Prima Visita oculistica,Breve,n/a
+ASSL4,Prima Visita ortopedica,Breve,n/a
+ASSL4,Prima Visita ginecologica,Breve,n/a
+ASSL4,Prima Visita otorinolaringoiatrica,Breve,2
+ASSL4,Prima Visita urologica,Breve,n/a
+ASSL4,Prima Visita dermatologica,Breve,n/a
+ASSL4,Prima Visita fisiatrica,Breve,n/a
+ASSL4,Prima Visita gastroenterologica,Breve,10
+ASSL4,Prima Visita oncologica,Breve,n/a
+ASSL4,Prima Visita pneumologica,Breve,n/a
+ASSL4,Mammografia bilaterale,Breve,9
+ASSL4,Mammografia monolaterale,Breve,n/a
+ASSL4,TC del torace,Breve,7
+ASSL4,"TC del torace, senza e con contrasto",Breve,n/a
+ASSL4,TC dell'addome superiore,Breve,3
+ASSL4,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ASSL4,TC dell'Addome inferiore,Breve,n/a
+ASSL4,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ASSL4,TC dell'Addome completo,Breve,n/a
+ASSL4,"TC dell'Addome completo, senza e con contrasto",Breve,n/a
+ASSL4,TC del cranio e dell'encefalo,Breve,n/a
+ASSL4,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL4,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL4,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL4,TC del Bacino,Breve,n/a
+ASSL4,RM del cervello e del tronco encefalico,Breve,n/a
+ASSL4,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,n/a
+ASSL4,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL4,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL4,RM della colonna,Breve,n/a
+ASSL4,"RM della colonna, senza e con contrasto",Breve,n/a
+ASSL4,Diagnostica ecografica del capo e del collo,Breve,7
+ASSL4,Eco (color) dopplergrafia cardiaca,Breve,n/a
+ASSL4,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,n/a
+ASSL4,Ecografia dell'addome superiore,Breve,10
+ASSL4,Ecografia dell'addome inferiore,Breve,8
+ASSL4,Ecografia dell'addome completo,Breve,8
+ASSL4,Ecografia bilaterale della mammella,Breve,8
+ASSL4,Ecografia monolaterale della mammella,Breve,n/a
+ASSL4,Ecografia ostetrica,Breve,n/a
+ASSL4,Ecografia ginecologica,Breve,1
+ASSL4,Ecocolordoppler degli arti superioro o inferiori,Breve,n/a
+ASSL4,Colonscopia con endoscopio flessibile,Breve,n/a
+ASSL4,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL4,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL4,Esofagogastroduodenoscopia,Breve,8
+ASSL4,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ASSL4,Elettrocardiogramma,Breve,10
+ASSL4,Elettrocardiogramma dinamico (Holter),Breve,n/a
+ASSL4,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL4,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL4,Esame audiometrico tonale,Breve,n/a
+ASSL4,Spirometria semplice,Breve,n/a
+ASSL4,Spirometria globale,Breve,n/a
+ASSL4,Fotografia del Fondus,Breve,n/a
+ASSL4,Elettromiografia semplice [EMG],Breve,n/a
+ASSL4,Prima Visita cardiologica,Differibile,211
+ASSL4,Prima Visita chirurgia vascolare,Differibile,n/a
+ASSL4,Prima Visita endocrinologica,Differibile,5
+ASSL4,Prima Visita neurologica,Differibile,24
+ASSL4,Prima Visita oculistica,Differibile,105
+ASSL4,Prima Visita ortopedica,Differibile,27
+ASSL4,Prima Visita ginecologica,Differibile,n/a
+ASSL4,Prima Visita otorinolaringoiatrica,Differibile,14
+ASSL4,Prima Visita urologica,Differibile,74
+ASSL4,Prima Visita dermatologica,Differibile,n/a
+ASSL4,Prima Visita fisiatrica,Differibile,0
+ASSL4,Prima Visita gastroenterologica,Differibile,20
+ASSL4,Prima Visita oncologica,Differibile,n/a
+ASSL4,Prima Visita pneumologica,Differibile,145
+ASSL4,Mammografia bilaterale,Differibile,206
+ASSL4,Mammografia monolaterale,Differibile,n/a
+ASSL4,TC del torace,Differibile,57
+ASSL4,"TC del torace, senza e con contrasto",Differibile,65
+ASSL4,TC dell'addome superiore,Differibile,n/a
+ASSL4,"TC dell'addome superiore, senza e con contrasto",Differibile,11
+ASSL4,TC dell'Addome inferiore,Differibile,n/a
+ASSL4,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ASSL4,TC dell'Addome completo,Differibile,n/a
+ASSL4,"TC dell'Addome completo, senza e con contrasto",Differibile,74
+ASSL4,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL4,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ASSL4,TC del rachide e dello speco vertebrale,Differibile,n/a
+ASSL4,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL4,TC del Bacino,Differibile,n/a
+ASSL4,RM del cervello e del tronco encefalico,Differibile,476
+ASSL4,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,469
+ASSL4,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ASSL4,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,412
+ASSL4,RM della colonna,Differibile,n/a
+ASSL4,"RM della colonna, senza e con contrasto",Differibile,n/a
+ASSL4,Diagnostica ecografica del capo e del collo,Differibile,68
+ASSL4,Eco (color) dopplergrafia cardiaca,Differibile,180
+ASSL4,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,60
+ASSL4,Ecografia dell'addome superiore,Differibile,43
+ASSL4,Ecografia dell'addome inferiore,Differibile,59
+ASSL4,Ecografia dell'addome completo,Differibile,65
+ASSL4,Ecografia bilaterale della mammella,Differibile,192
+ASSL4,Ecografia monolaterale della mammella,Differibile,8
+ASSL4,Ecografia ostetrica,Differibile,n/a
+ASSL4,Ecografia ginecologica,Differibile,25
+ASSL4,Ecocolordoppler degli arti superioro o inferiori,Differibile,n/a
+ASSL4,Colonscopia con endoscopio flessibile,Differibile,114
+ASSL4,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL4,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL4,Esofagogastroduodenoscopia,Differibile,90
+ASSL4,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+ASSL4,Elettrocardiogramma,Differibile,190
+ASSL4,Elettrocardiogramma dinamico (Holter),Differibile,158
+ASSL4,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,44
+ASSL4,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL4,Esame audiometrico tonale,Differibile,n/a
+ASSL4,Spirometria semplice,Differibile,182
+ASSL4,Spirometria globale,Differibile,120
+ASSL4,Fotografia del Fondus,Differibile,n/a
+ASSL4,Elettromiografia semplice [EMG],Differibile,13
+ASSL4,Prima Visita cardiologica,Programmabile,169
+ASSL4,Prima Visita chirurgia vascolare,Programmabile,n/a
+ASSL4,Prima Visita endocrinologica,Programmabile,n/a
+ASSL4,Prima Visita neurologica,Programmabile,19
+ASSL4,Prima Visita oculistica,Programmabile,83
+ASSL4,Prima Visita ortopedica,Programmabile,81
+ASSL4,Prima Visita ginecologica,Programmabile,30
+ASSL4,Prima Visita otorinolaringoiatrica,Programmabile,7
+ASSL4,Prima Visita urologica,Programmabile,224
+ASSL4,Prima Visita dermatologica,Programmabile,n/a
+ASSL4,Prima Visita fisiatrica,Programmabile,53
+ASSL4,Prima Visita gastroenterologica,Programmabile,22
+ASSL4,Prima Visita oncologica,Programmabile,n/a
+ASSL4,Prima Visita pneumologica,Programmabile,192
+ASSL4,Mammografia bilaterale,Programmabile,201
+ASSL4,Mammografia monolaterale,Programmabile,n/a
+ASSL4,TC del torace,Programmabile,92
+ASSL4,"TC del torace, senza e con contrasto",Programmabile,126
+ASSL4,TC dell'addome superiore,Programmabile,n/a
+ASSL4,"TC dell'addome superiore, senza e con contrasto",Programmabile,68
+ASSL4,TC dell'Addome inferiore,Programmabile,n/a
+ASSL4,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+ASSL4,TC dell'Addome completo,Programmabile,n/a
+ASSL4,"TC dell'Addome completo, senza e con contrasto",Programmabile,59
+ASSL4,TC del cranio e dell'encefalo,Programmabile,n/a
+ASSL4,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+ASSL4,TC del rachide e dello speco vertebrale,Programmabile,n/a
+ASSL4,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL4,TC del Bacino,Programmabile,n/a
+ASSL4,RM del cervello e del tronco encefalico,Programmabile,490
+ASSL4,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,500
+ASSL4,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ASSL4,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,595
+ASSL4,RM della colonna,Programmabile,n/a
+ASSL4,"RM della colonna, senza e con contrasto",Programmabile,n/a
+ASSL4,Diagnostica ecografica del capo e del collo,Programmabile,81
+ASSL4,Eco (color) dopplergrafia cardiaca,Programmabile,93
+ASSL4,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,86
+ASSL4,Ecografia dell'addome superiore,Programmabile,60
+ASSL4,Ecografia dell'addome inferiore,Programmabile,n/a
+ASSL4,Ecografia dell'addome completo,Programmabile,87
+ASSL4,Ecografia bilaterale della mammella,Programmabile,180
+ASSL4,Ecografia monolaterale della mammella,Programmabile,n/a
+ASSL4,Ecografia ostetrica,Programmabile,n/a
+ASSL4,Ecografia ginecologica,Programmabile,30
+ASSL4,Ecocolordoppler degli arti superioro o inferiori,Programmabile,n/a
+ASSL4,Colonscopia con endoscopio flessibile,Programmabile,118
+ASSL4,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL4,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ASSL4,Esofagogastroduodenoscopia,Programmabile,90
+ASSL4,Esofagogastroduodenoscopia con biopsia,Programmabile,83
+ASSL4,Elettrocardiogramma,Programmabile,191
+ASSL4,Elettrocardiogramma dinamico (Holter),Programmabile,132
+ASSL4,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,25
+ASSL4,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL4,Esame audiometrico tonale,Programmabile,n/a
+ASSL4,Spirometria semplice,Programmabile,195
+ASSL4,Spirometria globale,Programmabile,157
+ASSL4,Fotografia del Fondus,Programmabile,n/a
+ASSL4,Elettromiografia semplice [EMG],Programmabile,42
+ASSL5,Prima Visita cardiologica,Breve,n/a
+ASSL5,Prima Visita chirurgia vascolare,Breve,n/a
+ASSL5,Prima Visita endocrinologica,Breve,n/a
+ASSL5,Prima Visita neurologica,Breve,8
+ASSL5,Prima Visita oculistica,Breve,6
+ASSL5,Prima Visita ortopedica,Breve,n/a
+ASSL5,Prima Visita ginecologica,Breve,6
+ASSL5,Prima Visita otorinolaringoiatrica,Breve,8
+ASSL5,Prima Visita urologica,Breve,n/a
+ASSL5,Prima Visita dermatologica,Breve,n/a
+ASSL5,Prima Visita fisiatrica,Breve,n/a
+ASSL5,Prima Visita gastroenterologica,Breve,n/a
+ASSL5,Prima Visita oncologica,Breve,n/a
+ASSL5,Prima Visita pneumologica,Breve,n/a
+ASSL5,Mammografia bilaterale,Breve,n/a
+ASSL5,Mammografia monolaterale,Breve,n/a
+ASSL5,TC del torace,Breve,n/a
+ASSL5,"TC del torace, senza e con contrasto",Breve,n/a
+ASSL5,TC dell'addome superiore,Breve,n/a
+ASSL5,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ASSL5,TC dell'Addome inferiore,Breve,n/a
+ASSL5,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ASSL5,TC dell'Addome completo,Breve,10
+ASSL5,"TC dell'Addome completo, senza e con contrasto",Breve,7
+ASSL5,TC del cranio e dell'encefalo,Breve,n/a
+ASSL5,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL5,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL5,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL5,TC del Bacino,Breve,n/a
+ASSL5,RM del cervello e del tronco encefalico,Breve,n/a
+ASSL5,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,n/a
+ASSL5,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL5,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL5,RM della colonna,Breve,n/a
+ASSL5,"RM della colonna, senza e con contrasto",Breve,n/a
+ASSL5,Diagnostica ecografica del capo e del collo,Breve,9
+ASSL5,Eco (color) dopplergrafia cardiaca,Breve,3
+ASSL5,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,n/a
+ASSL5,Ecografia dell'addome superiore,Breve,3
+ASSL5,Ecografia dell'addome inferiore,Breve,n/a
+ASSL5,Ecografia dell'addome completo,Breve,8
+ASSL5,Ecografia bilaterale della mammella,Breve,9
+ASSL5,Ecografia monolaterale della mammella,Breve,n/a
+ASSL5,Ecografia ostetrica,Breve,n/a
+ASSL5,Ecografia ginecologica,Breve,n/a
+ASSL5,Ecocolordoppler degli arti superioro o inferiori,Breve,n/a
+ASSL5,Colonscopia con endoscopio flessibile,Breve,4
+ASSL5,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL5,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL5,Esofagogastroduodenoscopia,Breve,n/a
+ASSL5,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ASSL5,Elettrocardiogramma,Breve,2
+ASSL5,Elettrocardiogramma dinamico (Holter),Breve,n/a
+ASSL5,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL5,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL5,Esame audiometrico tonale,Breve,5
+ASSL5,Spirometria semplice,Breve,n/a
+ASSL5,Spirometria globale,Breve,n/a
+ASSL5,Fotografia del Fondus,Breve,n/a
+ASSL5,Elettromiografia semplice [EMG],Breve,n/a
+ASSL5,Prima Visita cardiologica,Differibile,120
+ASSL5,Prima Visita chirurgia vascolare,Differibile,n/a
+ASSL5,Prima Visita endocrinologica,Differibile,125
+ASSL5,Prima Visita neurologica,Differibile,193
+ASSL5,Prima Visita oculistica,Differibile,115
+ASSL5,Prima Visita ortopedica,Differibile,30
+ASSL5,Prima Visita ginecologica,Differibile,7
+ASSL5,Prima Visita otorinolaringoiatrica,Differibile,45
+ASSL5,Prima Visita urologica,Differibile,194
+ASSL5,Prima Visita dermatologica,Differibile,119
+ASSL5,Prima Visita fisiatrica,Differibile,99
+ASSL5,Prima Visita gastroenterologica,Differibile,n/a
+ASSL5,Prima Visita oncologica,Differibile,n/a
+ASSL5,Prima Visita pneumologica,Differibile,n/a
+ASSL5,Mammografia bilaterale,Differibile,48
+ASSL5,Mammografia monolaterale,Differibile,n/a
+ASSL5,TC del torace,Differibile,19
+ASSL5,"TC del torace, senza e con contrasto",Differibile,n/a
+ASSL5,TC dell'addome superiore,Differibile,n/a
+ASSL5,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+ASSL5,TC dell'Addome inferiore,Differibile,n/a
+ASSL5,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ASSL5,TC dell'Addome completo,Differibile,3
+ASSL5,"TC dell'Addome completo, senza e con contrasto",Differibile,25
+ASSL5,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL5,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ASSL5,TC del rachide e dello speco vertebrale,Differibile,n/a
+ASSL5,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL5,TC del Bacino,Differibile,19
+ASSL5,RM del cervello e del tronco encefalico,Differibile,4
+ASSL5,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,n/a
+ASSL5,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ASSL5,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+ASSL5,RM della colonna,Differibile,21
+ASSL5,"RM della colonna, senza e con contrasto",Differibile,n/a
+ASSL5,Diagnostica ecografica del capo e del collo,Differibile,52
+ASSL5,Eco (color) dopplergrafia cardiaca,Differibile,226
+ASSL5,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,101
+ASSL5,Ecografia dell'addome superiore,Differibile,50
+ASSL5,Ecografia dell'addome inferiore,Differibile,75
+ASSL5,Ecografia dell'addome completo,Differibile,87
+ASSL5,Ecografia bilaterale della mammella,Differibile,106
+ASSL5,Ecografia monolaterale della mammella,Differibile,n/a
+ASSL5,Ecografia ostetrica,Differibile,n/a
+ASSL5,Ecografia ginecologica,Differibile,43
+ASSL5,Ecocolordoppler degli arti superioro o inferiori,Differibile,3
+ASSL5,Colonscopia con endoscopio flessibile,Differibile,95
+ASSL5,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL5,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL5,Esofagogastroduodenoscopia,Differibile,41
+ASSL5,Esofagogastroduodenoscopia con biopsia,Differibile,331
+ASSL5,Elettrocardiogramma,Differibile,73
+ASSL5,Elettrocardiogramma dinamico (Holter),Differibile,139
+ASSL5,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+ASSL5,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL5,Esame audiometrico tonale,Differibile,44
+ASSL5,Spirometria semplice,Differibile,n/a
+ASSL5,Spirometria globale,Differibile,n/a
+ASSL5,Fotografia del Fondus,Differibile,n/a
+ASSL5,Elettromiografia semplice [EMG],Differibile,n/a
+ASSL5,Prima Visita cardiologica,Programmabile,111
+ASSL5,Prima Visita chirurgia vascolare,Programmabile,n/a
+ASSL5,Prima Visita endocrinologica,Programmabile,143
+ASSL5,Prima Visita neurologica,Programmabile,218
+ASSL5,Prima Visita oculistica,Programmabile,52
+ASSL5,Prima Visita ortopedica,Programmabile,72
+ASSL5,Prima Visita ginecologica,Programmabile,32
+ASSL5,Prima Visita otorinolaringoiatrica,Programmabile,55
+ASSL5,Prima Visita urologica,Programmabile,222
+ASSL5,Prima Visita dermatologica,Programmabile,101
+ASSL5,Prima Visita fisiatrica,Programmabile,96
+ASSL5,Prima Visita gastroenterologica,Programmabile,n/a
+ASSL5,Prima Visita oncologica,Programmabile,n/a
+ASSL5,Prima Visita pneumologica,Programmabile,n/a
+ASSL5,Mammografia bilaterale,Programmabile,151
+ASSL5,Mammografia monolaterale,Programmabile,292
+ASSL5,TC del torace,Programmabile,23
+ASSL5,"TC del torace, senza e con contrasto",Programmabile,15
+ASSL5,TC dell'addome superiore,Programmabile,n/a
+ASSL5,"TC dell'addome superiore, senza e con contrasto",Programmabile,n/a
+ASSL5,TC dell'Addome inferiore,Programmabile,n/a
+ASSL5,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,13
+ASSL5,TC dell'Addome completo,Programmabile,n/a
+ASSL5,"TC dell'Addome completo, senza e con contrasto",Programmabile,31
+ASSL5,TC del cranio e dell'encefalo,Programmabile,20
+ASSL5,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+ASSL5,TC del rachide e dello speco vertebrale,Programmabile,n/a
+ASSL5,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL5,TC del Bacino,Programmabile,n/a
+ASSL5,RM del cervello e del tronco encefalico,Programmabile,n/a
+ASSL5,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,n/a
+ASSL5,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ASSL5,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+ASSL5,RM della colonna,Programmabile,n/a
+ASSL5,"RM della colonna, senza e con contrasto",Programmabile,n/a
+ASSL5,Diagnostica ecografica del capo e del collo,Programmabile,146
+ASSL5,Eco (color) dopplergrafia cardiaca,Programmabile,222
+ASSL5,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,127
+ASSL5,Ecografia dell'addome superiore,Programmabile,81
+ASSL5,Ecografia dell'addome inferiore,Programmabile,66
+ASSL5,Ecografia dell'addome completo,Programmabile,100
+ASSL5,Ecografia bilaterale della mammella,Programmabile,233
+ASSL5,Ecografia monolaterale della mammella,Programmabile,n/a
+ASSL5,Ecografia ostetrica,Programmabile,30
+ASSL5,Ecografia ginecologica,Programmabile,24
+ASSL5,Ecocolordoppler degli arti superioro o inferiori,Programmabile,169
+ASSL5,Colonscopia con endoscopio flessibile,Programmabile,20
+ASSL5,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL5,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ASSL5,Esofagogastroduodenoscopia,Programmabile,150
+ASSL5,Esofagogastroduodenoscopia con biopsia,Programmabile,326
+ASSL5,Elettrocardiogramma,Programmabile,126
+ASSL5,Elettrocardiogramma dinamico (Holter),Programmabile,141
+ASSL5,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+ASSL5,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL5,Esame audiometrico tonale,Programmabile,26
+ASSL5,Spirometria semplice,Programmabile,n/a
+ASSL5,Spirometria globale,Programmabile,n/a
+ASSL5,Fotografia del Fondus,Programmabile,n/a
+ASSL5,Elettromiografia semplice [EMG],Programmabile,n/a
+ASSL6,Prima Visita cardiologica,Breve,n/a
+ASSL6,Prima Visita chirurgia vascolare,Breve,n/a
+ASSL6,Prima Visita endocrinologica,Breve,n/a
+ASSL6,Prima Visita neurologica,Breve,7
+ASSL6,Prima Visita oculistica,Breve,6
+ASSL6,Prima Visita ortopedica,Breve,n/a
+ASSL6,Prima Visita ginecologica,Breve,n/a
+ASSL6,Prima Visita otorinolaringoiatrica,Breve,n/a
+ASSL6,Prima Visita urologica,Breve,n/a
+ASSL6,Prima Visita dermatologica,Breve,n/a
+ASSL6,Prima Visita fisiatrica,Breve,10
+ASSL6,Prima Visita gastroenterologica,Breve,n/a
+ASSL6,Prima Visita oncologica,Breve,n/a
+ASSL6,Prima Visita pneumologica,Breve,n/a
+ASSL6,Mammografia bilaterale,Breve,7
+ASSL6,Mammografia monolaterale,Breve,n/a
+ASSL6,TC del torace,Breve,6
+ASSL6,"TC del torace, senza e con contrasto",Breve,9
+ASSL6,TC dell'addome superiore,Breve,n/a
+ASSL6,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ASSL6,TC dell'Addome inferiore,Breve,n/a
+ASSL6,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ASSL6,TC dell'Addome completo,Breve,5
+ASSL6,"TC dell'Addome completo, senza e con contrasto",Breve,9
+ASSL6,TC del cranio e dell'encefalo,Breve,n/a
+ASSL6,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL6,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL6,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL6,TC del Bacino,Breve,6
+ASSL6,RM del cervello e del tronco encefalico,Breve,n/a
+ASSL6,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,369
+ASSL6,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL6,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL6,RM della colonna,Breve,n/a
+ASSL6,"RM della colonna, senza e con contrasto",Breve,369
+ASSL6,Diagnostica ecografica del capo e del collo,Breve,7
+ASSL6,Eco (color) dopplergrafia cardiaca,Breve,8
+ASSL6,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,6
+ASSL6,Ecografia dell'addome superiore,Breve,4
+ASSL6,Ecografia dell'addome inferiore,Breve,11
+ASSL6,Ecografia dell'addome completo,Breve,7
+ASSL6,Ecografia bilaterale della mammella,Breve,8
+ASSL6,Ecografia monolaterale della mammella,Breve,n/a
+ASSL6,Ecografia ostetrica,Breve,n/a
+ASSL6,Ecografia ginecologica,Breve,3
+ASSL6,Ecocolordoppler degli arti superioro o inferiori,Breve,9
+ASSL6,Colonscopia con endoscopio flessibile,Breve,8
+ASSL6,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL6,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL6,Esofagogastroduodenoscopia,Breve,9
+ASSL6,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ASSL6,Elettrocardiogramma,Breve,n/a
+ASSL6,Elettrocardiogramma dinamico (Holter),Breve,9
+ASSL6,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL6,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL6,Esame audiometrico tonale,Breve,n/a
+ASSL6,Spirometria semplice,Breve,n/a
+ASSL6,Spirometria globale,Breve,n/a
+ASSL6,Fotografia del Fondus,Breve,n/a
+ASSL6,Elettromiografia semplice [EMG],Breve,n/a
+ASSL6,Prima Visita cardiologica,Differibile,43
+ASSL6,Prima Visita chirurgia vascolare,Differibile,n/a
+ASSL6,Prima Visita endocrinologica,Differibile,81
+ASSL6,Prima Visita neurologica,Differibile,55
+ASSL6,Prima Visita oculistica,Differibile,66
+ASSL6,Prima Visita ortopedica,Differibile,84
+ASSL6,Prima Visita ginecologica,Differibile,n/a
+ASSL6,Prima Visita otorinolaringoiatrica,Differibile,58
+ASSL6,Prima Visita urologica,Differibile,271
+ASSL6,Prima Visita dermatologica,Differibile,91
+ASSL6,Prima Visita fisiatrica,Differibile,22
+ASSL6,Prima Visita gastroenterologica,Differibile,225
+ASSL6,Prima Visita oncologica,Differibile,n/a
+ASSL6,Prima Visita pneumologica,Differibile,235
+ASSL6,Mammografia bilaterale,Differibile,111
+ASSL6,Mammografia monolaterale,Differibile,n/a
+ASSL6,TC del torace,Differibile,17
+ASSL6,"TC del torace, senza e con contrasto",Differibile,100
+ASSL6,TC dell'addome superiore,Differibile,n/a
+ASSL6,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+ASSL6,TC dell'Addome inferiore,Differibile,n/a
+ASSL6,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ASSL6,TC dell'Addome completo,Differibile,13
+ASSL6,"TC dell'Addome completo, senza e con contrasto",Differibile,90
+ASSL6,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL6,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ASSL6,TC del rachide e dello speco vertebrale,Differibile,n/a
+ASSL6,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL6,TC del Bacino,Differibile,n/a
+ASSL6,RM del cervello e del tronco encefalico,Differibile,n/a
+ASSL6,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,247
+ASSL6,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ASSL6,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+ASSL6,RM della colonna,Differibile,112
+ASSL6,"RM della colonna, senza e con contrasto",Differibile,230
+ASSL6,Diagnostica ecografica del capo e del collo,Differibile,51
+ASSL6,Eco (color) dopplergrafia cardiaca,Differibile,21
+ASSL6,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,44
+ASSL6,Ecografia dell'addome superiore,Differibile,14
+ASSL6,Ecografia dell'addome inferiore,Differibile,32
+ASSL6,Ecografia dell'addome completo,Differibile,52
+ASSL6,Ecografia bilaterale della mammella,Differibile,90
+ASSL6,Ecografia monolaterale della mammella,Differibile,n/a
+ASSL6,Ecografia ostetrica,Differibile,n/a
+ASSL6,Ecografia ginecologica,Differibile,21
+ASSL6,Ecocolordoppler degli arti superioro o inferiori,Differibile,44
+ASSL6,Colonscopia con endoscopio flessibile,Differibile,346
+ASSL6,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL6,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL6,Esofagogastroduodenoscopia,Differibile,130
+ASSL6,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+ASSL6,Elettrocardiogramma,Differibile,43
+ASSL6,Elettrocardiogramma dinamico (Holter),Differibile,50
+ASSL6,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+ASSL6,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL6,Esame audiometrico tonale,Differibile,n/a
+ASSL6,Spirometria semplice,Differibile,n/a
+ASSL6,Spirometria globale,Differibile,n/a
+ASSL6,Fotografia del Fondus,Differibile,n/a
+ASSL6,Elettromiografia semplice [EMG],Differibile,n/a
+ASSL6,Prima Visita cardiologica,Programmabile,118
+ASSL6,Prima Visita chirurgia vascolare,Programmabile,n/a
+ASSL6,Prima Visita endocrinologica,Programmabile,221
+ASSL6,Prima Visita neurologica,Programmabile,142
+ASSL6,Prima Visita oculistica,Programmabile,129
+ASSL6,Prima Visita ortopedica,Programmabile,109
+ASSL6,Prima Visita ginecologica,Programmabile,86
+ASSL6,Prima Visita otorinolaringoiatrica,Programmabile,85
+ASSL6,Prima Visita urologica,Programmabile,138
+ASSL6,Prima Visita dermatologica,Programmabile,108
+ASSL6,Prima Visita fisiatrica,Programmabile,68
+ASSL6,Prima Visita gastroenterologica,Programmabile,n/a
+ASSL6,Prima Visita oncologica,Programmabile,21
+ASSL6,Prima Visita pneumologica,Programmabile,125
+ASSL6,Mammografia bilaterale,Programmabile,188
+ASSL6,Mammografia monolaterale,Programmabile,n/a
+ASSL6,TC del torace,Programmabile,0
+ASSL6,"TC del torace, senza e con contrasto",Programmabile,n/a
+ASSL6,TC dell'addome superiore,Programmabile,n/a
+ASSL6,"TC dell'addome superiore, senza e con contrasto",Programmabile,n/a
+ASSL6,TC dell'Addome inferiore,Programmabile,n/a
+ASSL6,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+ASSL6,TC dell'Addome completo,Programmabile,3
+ASSL6,"TC dell'Addome completo, senza e con contrasto",Programmabile,197
+ASSL6,TC del cranio e dell'encefalo,Programmabile,n/a
+ASSL6,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+ASSL6,TC del rachide e dello speco vertebrale,Programmabile,n/a
+ASSL6,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL6,TC del Bacino,Programmabile,n/a
+ASSL6,RM del cervello e del tronco encefalico,Programmabile,n/a
+ASSL6,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,266
+ASSL6,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ASSL6,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+ASSL6,RM della colonna,Programmabile,134
+ASSL6,"RM della colonna, senza e con contrasto",Programmabile,266
+ASSL6,Diagnostica ecografica del capo e del collo,Programmabile,144
+ASSL6,Eco (color) dopplergrafia cardiaca,Programmabile,76
+ASSL6,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,157
+ASSL6,Ecografia dell'addome superiore,Programmabile,120
+ASSL6,Ecografia dell'addome inferiore,Programmabile,25
+ASSL6,Ecografia dell'addome completo,Programmabile,111
+ASSL6,Ecografia bilaterale della mammella,Programmabile,156
+ASSL6,Ecografia monolaterale della mammella,Programmabile,148
+ASSL6,Ecografia ostetrica,Programmabile,n/a
+ASSL6,Ecografia ginecologica,Programmabile,45
+ASSL6,Ecocolordoppler degli arti superioro o inferiori,Programmabile,262
+ASSL6,Colonscopia con endoscopio flessibile,Programmabile,595
+ASSL6,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL6,Sigmoidoscopia con endoscopio flessibile,Programmabile,527
+ASSL6,Esofagogastroduodenoscopia,Programmabile,283
+ASSL6,Esofagogastroduodenoscopia con biopsia,Programmabile,n/a
+ASSL6,Elettrocardiogramma,Programmabile,99
+ASSL6,Elettrocardiogramma dinamico (Holter),Programmabile,n/a
+ASSL6,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+ASSL6,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL6,Esame audiometrico tonale,Programmabile,n/a
+ASSL6,Spirometria semplice,Programmabile,n/a
+ASSL6,Spirometria globale,Programmabile,n/a
+ASSL6,Fotografia del Fondus,Programmabile,n/a
+ASSL6,Elettromiografia semplice [EMG],Programmabile,n/a
+ASSL7,Prima Visita cardiologica,Breve,n/a
+ASSL7,Prima Visita chirurgia vascolare,Breve,n/a
+ASSL7,Prima Visita endocrinologica,Breve,n/a
+ASSL7,Prima Visita neurologica,Breve,8
+ASSL7,Prima Visita oculistica,Breve,9
+ASSL7,Prima Visita ortopedica,Breve,n/a
+ASSL7,Prima Visita ginecologica,Breve,n/a
+ASSL7,Prima Visita otorinolaringoiatrica,Breve,n/a
+ASSL7,Prima Visita urologica,Breve,n/a
+ASSL7,Prima Visita dermatologica,Breve,n/a
+ASSL7,Prima Visita fisiatrica,Breve,n/a
+ASSL7,Prima Visita gastroenterologica,Breve,n/a
+ASSL7,Prima Visita oncologica,Breve,n/a
+ASSL7,Prima Visita pneumologica,Breve,n/a
+ASSL7,Mammografia bilaterale,Breve,n/a
+ASSL7,Mammografia monolaterale,Breve,n/a
+ASSL7,TC del torace,Breve,n/a
+ASSL7,"TC del torace, senza e con contrasto",Breve,n/a
+ASSL7,TC dell'addome superiore,Breve,n/a
+ASSL7,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ASSL7,TC dell'Addome inferiore,Breve,n/a
+ASSL7,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ASSL7,TC dell'Addome completo,Breve,n/a
+ASSL7,"TC dell'Addome completo, senza e con contrasto",Breve,n/a
+ASSL7,TC del cranio e dell'encefalo,Breve,n/a
+ASSL7,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL7,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL7,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL7,TC del Bacino,Breve,n/a
+ASSL7,RM del cervello e del tronco encefalico,Breve,n/a
+ASSL7,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,n/a
+ASSL7,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL7,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL7,RM della colonna,Breve,n/a
+ASSL7,"RM della colonna, senza e con contrasto",Breve,n/a
+ASSL7,Diagnostica ecografica del capo e del collo,Breve,n/a
+ASSL7,Eco (color) dopplergrafia cardiaca,Breve,n/a
+ASSL7,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,1
+ASSL7,Ecografia dell'addome superiore,Breve,n/a
+ASSL7,Ecografia dell'addome inferiore,Breve,n/a
+ASSL7,Ecografia dell'addome completo,Breve,3
+ASSL7,Ecografia bilaterale della mammella,Breve,n/a
+ASSL7,Ecografia monolaterale della mammella,Breve,n/a
+ASSL7,Ecografia ostetrica,Breve,6
+ASSL7,Ecografia ginecologica,Breve,n/a
+ASSL7,Ecocolordoppler degli arti superioro o inferiori,Breve,n/a
+ASSL7,Colonscopia con endoscopio flessibile,Breve,9
+ASSL7,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL7,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL7,Esofagogastroduodenoscopia,Breve,9
+ASSL7,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ASSL7,Elettrocardiogramma,Breve,4
+ASSL7,Elettrocardiogramma dinamico (Holter),Breve,n/a
+ASSL7,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL7,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL7,Esame audiometrico tonale,Breve,n/a
+ASSL7,Spirometria semplice,Breve,6
+ASSL7,Spirometria globale,Breve,n/a
+ASSL7,Fotografia del Fondus,Breve,n/a
+ASSL7,Elettromiografia semplice [EMG],Breve,n/a
+ASSL7,Prima Visita cardiologica,Differibile,21
+ASSL7,Prima Visita chirurgia vascolare,Differibile,n/a
+ASSL7,Prima Visita endocrinologica,Differibile,32
+ASSL7,Prima Visita neurologica,Differibile,38
+ASSL7,Prima Visita oculistica,Differibile,138
+ASSL7,Prima Visita ortopedica,Differibile,24
+ASSL7,Prima Visita ginecologica,Differibile,18
+ASSL7,Prima Visita otorinolaringoiatrica,Differibile,29
+ASSL7,Prima Visita urologica,Differibile,66
+ASSL7,Prima Visita dermatologica,Differibile,147
+ASSL7,Prima Visita fisiatrica,Differibile,37
+ASSL7,Prima Visita gastroenterologica,Differibile,n/a
+ASSL7,Prima Visita oncologica,Differibile,n/a
+ASSL7,Prima Visita pneumologica,Differibile,n/a
+ASSL7,Mammografia bilaterale,Differibile,n/a
+ASSL7,Mammografia monolaterale,Differibile,n/a
+ASSL7,TC del torace,Differibile,123
+ASSL7,"TC del torace, senza e con contrasto",Differibile,118
+ASSL7,TC dell'addome superiore,Differibile,n/a
+ASSL7,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+ASSL7,TC dell'Addome inferiore,Differibile,n/a
+ASSL7,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ASSL7,TC dell'Addome completo,Differibile,138
+ASSL7,"TC dell'Addome completo, senza e con contrasto",Differibile,118
+ASSL7,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL7,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ASSL7,TC del rachide e dello speco vertebrale,Differibile,n/a
+ASSL7,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL7,TC del Bacino,Differibile,n/a
+ASSL7,RM del cervello e del tronco encefalico,Differibile,n/a
+ASSL7,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,n/a
+ASSL7,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ASSL7,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+ASSL7,RM della colonna,Differibile,98
+ASSL7,"RM della colonna, senza e con contrasto",Differibile,n/a
+ASSL7,Diagnostica ecografica del capo e del collo,Differibile,100
+ASSL7,Eco (color) dopplergrafia cardiaca,Differibile,n/a
+ASSL7,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,21
+ASSL7,Ecografia dell'addome superiore,Differibile,97
+ASSL7,Ecografia dell'addome inferiore,Differibile,109
+ASSL7,Ecografia dell'addome completo,Differibile,114
+ASSL7,Ecografia bilaterale della mammella,Differibile,174
+ASSL7,Ecografia monolaterale della mammella,Differibile,n/a
+ASSL7,Ecografia ostetrica,Differibile,21
+ASSL7,Ecografia ginecologica,Differibile,30
+ASSL7,Ecocolordoppler degli arti superioro o inferiori,Differibile,n/a
+ASSL7,Colonscopia con endoscopio flessibile,Differibile,354
+ASSL7,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL7,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL7,Esofagogastroduodenoscopia,Differibile,276
+ASSL7,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+ASSL7,Elettrocardiogramma,Differibile,17
+ASSL7,Elettrocardiogramma dinamico (Holter),Differibile,173
+ASSL7,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+ASSL7,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL7,Esame audiometrico tonale,Differibile,42
+ASSL7,Spirometria semplice,Differibile,105
+ASSL7,Spirometria globale,Differibile,85
+ASSL7,Fotografia del Fondus,Differibile,n/a
+ASSL7,Elettromiografia semplice [EMG],Differibile,n/a
+ASSL7,Prima Visita cardiologica,Programmabile,138
+ASSL7,Prima Visita chirurgia vascolare,Programmabile,n/a
+ASSL7,Prima Visita endocrinologica,Programmabile,95
+ASSL7,Prima Visita neurologica,Programmabile,27
+ASSL7,Prima Visita oculistica,Programmabile,297
+ASSL7,Prima Visita ortopedica,Programmabile,22
+ASSL7,Prima Visita ginecologica,Programmabile,7
+ASSL7,Prima Visita otorinolaringoiatrica,Programmabile,114
+ASSL7,Prima Visita urologica,Programmabile,72
+ASSL7,Prima Visita dermatologica,Programmabile,45
+ASSL7,Prima Visita fisiatrica,Programmabile,63
+ASSL7,Prima Visita gastroenterologica,Programmabile,365
+ASSL7,Prima Visita oncologica,Programmabile,n/a
+ASSL7,Prima Visita pneumologica,Programmabile,100
+ASSL7,Mammografia bilaterale,Programmabile,275
+ASSL7,Mammografia monolaterale,Programmabile,n/a
+ASSL7,TC del torace,Programmabile,222
+ASSL7,"TC del torace, senza e con contrasto",Programmabile,n/a
+ASSL7,TC dell'addome superiore,Programmabile,n/a
+ASSL7,"TC dell'addome superiore, senza e con contrasto",Programmabile,n/a
+ASSL7,TC dell'Addome inferiore,Programmabile,n/a
+ASSL7,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+ASSL7,TC dell'Addome completo,Programmabile,n/a
+ASSL7,"TC dell'Addome completo, senza e con contrasto",Programmabile,63
+ASSL7,TC del cranio e dell'encefalo,Programmabile,187
+ASSL7,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+ASSL7,TC del rachide e dello speco vertebrale,Programmabile,136
+ASSL7,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL7,TC del Bacino,Programmabile,n/a
+ASSL7,RM del cervello e del tronco encefalico,Programmabile,156
+ASSL7,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,n/a
+ASSL7,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ASSL7,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+ASSL7,RM della colonna,Programmabile,74
+ASSL7,"RM della colonna, senza e con contrasto",Programmabile,n/a
+ASSL7,Diagnostica ecografica del capo e del collo,Programmabile,146
+ASSL7,Eco (color) dopplergrafia cardiaca,Programmabile,n/a
+ASSL7,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,96
+ASSL7,Ecografia dell'addome superiore,Programmabile,138
+ASSL7,Ecografia dell'addome inferiore,Programmabile,146
+ASSL7,Ecografia dell'addome completo,Programmabile,115
+ASSL7,Ecografia bilaterale della mammella,Programmabile,259
+ASSL7,Ecografia monolaterale della mammella,Programmabile,n/a
+ASSL7,Ecografia ostetrica,Programmabile,34
+ASSL7,Ecografia ginecologica,Programmabile,95
+ASSL7,Ecocolordoppler degli arti superioro o inferiori,Programmabile,n/a
+ASSL7,Colonscopia con endoscopio flessibile,Programmabile,132
+ASSL7,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL7,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ASSL7,Esofagogastroduodenoscopia,Programmabile,385
+ASSL7,Esofagogastroduodenoscopia con biopsia,Programmabile,n/a
+ASSL7,Elettrocardiogramma,Programmabile,109
+ASSL7,Elettrocardiogramma dinamico (Holter),Programmabile,150
+ASSL7,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+ASSL7,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL7,Esame audiometrico tonale,Programmabile,69
+ASSL7,Spirometria semplice,Programmabile,283
+ASSL7,Spirometria globale,Programmabile,277
+ASSL7,Fotografia del Fondus,Programmabile,n/a
+ASSL7,Elettromiografia semplice [EMG],Programmabile,n/a
+ASSL8,Prima Visita cardiologica,Breve,7
+ASSL8,Prima Visita chirurgia vascolare,Breve,n/a
+ASSL8,Prima Visita endocrinologica,Breve,n/a
+ASSL8,Prima Visita neurologica,Breve,13
+ASSL8,Prima Visita oculistica,Breve,5
+ASSL8,Prima Visita ortopedica,Breve,7
+ASSL8,Prima Visita ginecologica,Breve,n/a
+ASSL8,Prima Visita otorinolaringoiatrica,Breve,n/a
+ASSL8,Prima Visita urologica,Breve,8
+ASSL8,Prima Visita dermatologica,Breve,8
+ASSL8,Prima Visita fisiatrica,Breve,4
+ASSL8,Prima Visita gastroenterologica,Breve,n/a
+ASSL8,Prima Visita oncologica,Breve,n/a
+ASSL8,Prima Visita pneumologica,Breve,n/a
+ASSL8,Mammografia bilaterale,Breve,5
+ASSL8,Mammografia monolaterale,Breve,n/a
+ASSL8,TC del torace,Breve,5
+ASSL8,"TC del torace, senza e con contrasto",Breve,7
+ASSL8,TC dell'addome superiore,Breve,n/a
+ASSL8,"TC dell'addome superiore, senza e con contrasto",Breve,8
+ASSL8,TC dell'Addome inferiore,Breve,n/a
+ASSL8,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ASSL8,TC dell'Addome completo,Breve,2
+ASSL8,"TC dell'Addome completo, senza e con contrasto",Breve,7
+ASSL8,TC del cranio e dell'encefalo,Breve,n/a
+ASSL8,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ASSL8,TC del rachide e dello speco vertebrale,Breve,n/a
+ASSL8,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ASSL8,TC del Bacino,Breve,n/a
+ASSL8,RM del cervello e del tronco encefalico,Breve,9
+ASSL8,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,9
+ASSL8,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ASSL8,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+ASSL8,RM della colonna,Breve,9
+ASSL8,"RM della colonna, senza e con contrasto",Breve,n/a
+ASSL8,Diagnostica ecografica del capo e del collo,Breve,7
+ASSL8,Eco (color) dopplergrafia cardiaca,Breve,6
+ASSL8,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,6
+ASSL8,Ecografia dell'addome superiore,Breve,8
+ASSL8,Ecografia dell'addome inferiore,Breve,10
+ASSL8,Ecografia dell'addome completo,Breve,7
+ASSL8,Ecografia bilaterale della mammella,Breve,6
+ASSL8,Ecografia monolaterale della mammella,Breve,8
+ASSL8,Ecografia ostetrica,Breve,n/a
+ASSL8,Ecografia ginecologica,Breve,6
+ASSL8,Ecocolordoppler degli arti superioro o inferiori,Breve,n/a
+ASSL8,Colonscopia con endoscopio flessibile,Breve,16
+ASSL8,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ASSL8,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ASSL8,Esofagogastroduodenoscopia,Breve,7
+ASSL8,Esofagogastroduodenoscopia con biopsia,Breve,71
+ASSL8,Elettrocardiogramma,Breve,5
+ASSL8,Elettrocardiogramma dinamico (Holter),Breve,9
+ASSL8,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ASSL8,Altri test cardiovascolari da sforzo,Breve,n/a
+ASSL8,Esame audiometrico tonale,Breve,7
+ASSL8,Spirometria semplice,Breve,4
+ASSL8,Spirometria globale,Breve,n/a
+ASSL8,Fotografia del Fondus,Breve,n/a
+ASSL8,Elettromiografia semplice [EMG],Breve,9
+ASSL8,Prima Visita cardiologica,Differibile,105
+ASSL8,Prima Visita chirurgia vascolare,Differibile,n/a
+ASSL8,Prima Visita endocrinologica,Differibile,77
+ASSL8,Prima Visita neurologica,Differibile,89
+ASSL8,Prima Visita oculistica,Differibile,99
+ASSL8,Prima Visita ortopedica,Differibile,71
+ASSL8,Prima Visita ginecologica,Differibile,23
+ASSL8,Prima Visita otorinolaringoiatrica,Differibile,75
+ASSL8,Prima Visita urologica,Differibile,132
+ASSL8,Prima Visita dermatologica,Differibile,124
+ASSL8,Prima Visita fisiatrica,Differibile,16
+ASSL8,Prima Visita gastroenterologica,Differibile,148
+ASSL8,Prima Visita oncologica,Differibile,n/a
+ASSL8,Prima Visita pneumologica,Differibile,311
+ASSL8,Mammografia bilaterale,Differibile,87
+ASSL8,Mammografia monolaterale,Differibile,n/a
+ASSL8,TC del torace,Differibile,23
+ASSL8,"TC del torace, senza e con contrasto",Differibile,52
+ASSL8,TC dell'addome superiore,Differibile,n/a
+ASSL8,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+ASSL8,TC dell'Addome inferiore,Differibile,n/a
+ASSL8,"TC dell'Addome inferiore, senza e con contrasto",Differibile,69
+ASSL8,TC dell'Addome completo,Differibile,18
+ASSL8,"TC dell'Addome completo, senza e con contrasto",Differibile,35
+ASSL8,TC del cranio e dell'encefalo,Differibile,n/a
+ASSL8,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ASSL8,TC del rachide e dello speco vertebrale,Differibile,52
+ASSL8,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ASSL8,TC del Bacino,Differibile,n/a
+ASSL8,RM del cervello e del tronco encefalico,Differibile,62
+ASSL8,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,298
+ASSL8,RM dell'addome inferiore e scavo pelvico,Differibile,148
+ASSL8,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+ASSL8,RM della colonna,Differibile,74
+ASSL8,"RM della colonna, senza e con contrasto",Differibile,n/a
+ASSL8,Diagnostica ecografica del capo e del collo,Differibile,69
+ASSL8,Eco (color) dopplergrafia cardiaca,Differibile,138
+ASSL8,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,97
+ASSL8,Ecografia dell'addome superiore,Differibile,51
+ASSL8,Ecografia dell'addome inferiore,Differibile,27
+ASSL8,Ecografia dell'addome completo,Differibile,49
+ASSL8,Ecografia bilaterale della mammella,Differibile,116
+ASSL8,Ecografia monolaterale della mammella,Differibile,n/a
+ASSL8,Ecografia ostetrica,Differibile,n/a
+ASSL8,Ecografia ginecologica,Differibile,18
+ASSL8,Ecocolordoppler degli arti superioro o inferiori,Differibile,73
+ASSL8,Colonscopia con endoscopio flessibile,Differibile,156
+ASSL8,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ASSL8,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ASSL8,Esofagogastroduodenoscopia,Differibile,81
+ASSL8,Esofagogastroduodenoscopia con biopsia,Differibile,123
+ASSL8,Elettrocardiogramma,Differibile,137
+ASSL8,Elettrocardiogramma dinamico (Holter),Differibile,114
+ASSL8,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,39
+ASSL8,Altri test cardiovascolari da sforzo,Differibile,n/a
+ASSL8,Esame audiometrico tonale,Differibile,45
+ASSL8,Spirometria semplice,Differibile,7
+ASSL8,Spirometria globale,Differibile,11
+ASSL8,Fotografia del Fondus,Differibile,n/a
+ASSL8,Elettromiografia semplice [EMG],Differibile,61
+ASSL8,Prima Visita cardiologica,Programmabile,200
+ASSL8,Prima Visita chirurgia vascolare,Programmabile,n/a
+ASSL8,Prima Visita endocrinologica,Programmabile,159
+ASSL8,Prima Visita neurologica,Programmabile,98
+ASSL8,Prima Visita oculistica,Programmabile,130
+ASSL8,Prima Visita ortopedica,Programmabile,75
+ASSL8,Prima Visita ginecologica,Programmabile,43
+ASSL8,Prima Visita otorinolaringoiatrica,Programmabile,107
+ASSL8,Prima Visita urologica,Programmabile,170
+ASSL8,Prima Visita dermatologica,Programmabile,125
+ASSL8,Prima Visita fisiatrica,Programmabile,30
+ASSL8,Prima Visita gastroenterologica,Programmabile,179
+ASSL8,Prima Visita oncologica,Programmabile,15
+ASSL8,Prima Visita pneumologica,Programmabile,172
+ASSL8,Mammografia bilaterale,Programmabile,136
+ASSL8,Mammografia monolaterale,Programmabile,79
+ASSL8,TC del torace,Programmabile,46
+ASSL8,"TC del torace, senza e con contrasto",Programmabile,90
+ASSL8,TC dell'addome superiore,Programmabile,n/a
+ASSL8,"TC dell'addome superiore, senza e con contrasto",Programmabile,47
+ASSL8,TC dell'Addome inferiore,Programmabile,n/a
+ASSL8,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,29
+ASSL8,TC dell'Addome completo,Programmabile,51
+ASSL8,"TC dell'Addome completo, senza e con contrasto",Programmabile,79
+ASSL8,TC del cranio e dell'encefalo,Programmabile,30
+ASSL8,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,45
+ASSL8,TC del rachide e dello speco vertebrale,Programmabile,93
+ASSL8,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ASSL8,TC del Bacino,Programmabile,n/a
+ASSL8,RM del cervello e del tronco encefalico,Programmabile,94
+ASSL8,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,454
+ASSL8,RM dell'addome inferiore e scavo pelvico,Programmabile,156
+ASSL8,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+ASSL8,RM della colonna,Programmabile,115
+ASSL8,"RM della colonna, senza e con contrasto",Programmabile,696
+ASSL8,Diagnostica ecografica del capo e del collo,Programmabile,91
+ASSL8,Eco (color) dopplergrafia cardiaca,Programmabile,169
+ASSL8,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,133
+ASSL8,Ecografia dell'addome superiore,Programmabile,90
+ASSL8,Ecografia dell'addome inferiore,Programmabile,63
+ASSL8,Ecografia dell'addome completo,Programmabile,75
+ASSL8,Ecografia bilaterale della mammella,Programmabile,140
+ASSL8,Ecografia monolaterale della mammella,Programmabile,86
+ASSL8,Ecografia ostetrica,Programmabile,19
+ASSL8,Ecografia ginecologica,Programmabile,27
+ASSL8,Ecocolordoppler degli arti superioro o inferiori,Programmabile,111
+ASSL8,Colonscopia con endoscopio flessibile,Programmabile,252
+ASSL8,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ASSL8,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ASSL8,Esofagogastroduodenoscopia,Programmabile,89
+ASSL8,Esofagogastroduodenoscopia con biopsia,Programmabile,95
+ASSL8,Elettrocardiogramma,Programmabile,197
+ASSL8,Elettrocardiogramma dinamico (Holter),Programmabile,142
+ASSL8,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,85
+ASSL8,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ASSL8,Esame audiometrico tonale,Programmabile,58
+ASSL8,Spirometria semplice,Programmabile,43
+ASSL8,Spirometria globale,Programmabile,56
+ASSL8,Fotografia del Fondus,Programmabile,n/a
+ASSL8,Elettromiografia semplice [EMG],Programmabile,71
+ARNAS,Prima Visita cardiologica,Breve,n/a
+ARNAS,Prima Visita chirurgia vascolare,Breve,n/a
+ARNAS,Prima Visita endocrinologica,Breve,n/a
+ARNAS,Prima Visita neurologica,Breve,n/a
+ARNAS,Prima Visita oculistica,Breve,n/a
+ARNAS,Prima Visita ortopedica,Breve,n/a
+ARNAS,Prima Visita ginecologica,Breve,n/a
+ARNAS,Prima Visita otorinolaringoiatrica,Breve,n/a
+ARNAS,Prima Visita urologica,Breve,n/a
+ARNAS,Prima Visita dermatologica,Breve,n/a
+ARNAS,Prima Visita fisiatrica,Breve,n/a
+ARNAS,Prima Visita gastroenterologica,Breve,n/a
+ARNAS,Prima Visita oncologica,Breve,n/a
+ARNAS,Prima Visita pneumologica,Breve,n/a
+ARNAS,Mammografia bilaterale,Breve,4
+ARNAS,Mammografia monolaterale,Breve,6
+ARNAS,TC del torace,Breve,7
+ARNAS,"TC del torace, senza e con contrasto",Breve,8
+ARNAS,TC dell'addome superiore,Breve,n/a
+ARNAS,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+ARNAS,TC dell'Addome inferiore,Breve,n/a
+ARNAS,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+ARNAS,TC dell'Addome completo,Breve,10
+ARNAS,"TC dell'Addome completo, senza e con contrasto",Breve,7
+ARNAS,TC del cranio e dell'encefalo,Breve,n/a
+ARNAS,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+ARNAS,TC del rachide e dello speco vertebrale,Breve,n/a
+ARNAS,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+ARNAS,TC del Bacino,Breve,n/a
+ARNAS,RM del cervello e del tronco encefalico,Breve,9
+ARNAS,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,10
+ARNAS,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+ARNAS,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,10
+ARNAS,RM della colonna,Breve,n/a
+ARNAS,"RM della colonna, senza e con contrasto",Breve,n/a
+ARNAS,Diagnostica ecografica del capo e del collo,Breve,9
+ARNAS,Eco (color) dopplergrafia cardiaca,Breve,n/a
+ARNAS,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,n/a
+ARNAS,Ecografia dell'addome superiore,Breve,2
+ARNAS,Ecografia dell'addome inferiore,Breve,n/a
+ARNAS,Ecografia dell'addome completo,Breve,5
+ARNAS,Ecografia bilaterale della mammella,Breve,5
+ARNAS,Ecografia monolaterale della mammella,Breve,6
+ARNAS,Ecografia ostetrica,Breve,3
+ARNAS,Ecografia ginecologica,Breve,2
+ARNAS,Ecocolordoppler degli arti superioro o inferiori,Breve,10
+ARNAS,Colonscopia con endoscopio flessibile,Breve,10
+ARNAS,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+ARNAS,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+ARNAS,Esofagogastroduodenoscopia,Breve,10
+ARNAS,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+ARNAS,Elettrocardiogramma,Breve,n/a
+ARNAS,Elettrocardiogramma dinamico (Holter),Breve,n/a
+ARNAS,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+ARNAS,Altri test cardiovascolari da sforzo,Breve,n/a
+ARNAS,Esame audiometrico tonale,Breve,n/a
+ARNAS,Spirometria semplice,Breve,n/a
+ARNAS,Spirometria globale,Breve,n/a
+ARNAS,Fotografia del Fondus,Breve,n/a
+ARNAS,Elettromiografia semplice [EMG],Breve,n/a
+ARNAS,Prima Visita cardiologica,Differibile,24
+ARNAS,Prima Visita chirurgia vascolare,Differibile,n/a
+ARNAS,Prima Visita endocrinologica,Differibile,n/a
+ARNAS,Prima Visita neurologica,Differibile,135
+ARNAS,Prima Visita oculistica,Differibile,241
+ARNAS,Prima Visita ortopedica,Differibile,n/a
+ARNAS,Prima Visita ginecologica,Differibile,2
+ARNAS,Prima Visita otorinolaringoiatrica,Differibile,n/a
+ARNAS,Prima Visita urologica,Differibile,66
+ARNAS,Prima Visita dermatologica,Differibile,28
+ARNAS,Prima Visita fisiatrica,Differibile,n/a
+ARNAS,Prima Visita gastroenterologica,Differibile,n/a
+ARNAS,Prima Visita oncologica,Differibile,n/a
+ARNAS,Prima Visita pneumologica,Differibile,n/a
+ARNAS,Mammografia bilaterale,Differibile,158
+ARNAS,Mammografia monolaterale,Differibile,311
+ARNAS,TC del torace,Differibile,12
+ARNAS,"TC del torace, senza e con contrasto",Differibile,56
+ARNAS,TC dell'addome superiore,Differibile,n/a
+ARNAS,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+ARNAS,TC dell'Addome inferiore,Differibile,n/a
+ARNAS,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+ARNAS,TC dell'Addome completo,Differibile,23
+ARNAS,"TC dell'Addome completo, senza e con contrasto",Differibile,4
+ARNAS,TC del cranio e dell'encefalo,Differibile,n/a
+ARNAS,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+ARNAS,TC del rachide e dello speco vertebrale,Differibile,n/a
+ARNAS,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+ARNAS,TC del Bacino,Differibile,n/a
+ARNAS,RM del cervello e del tronco encefalico,Differibile,136
+ARNAS,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,549
+ARNAS,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+ARNAS,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,592
+ARNAS,RM della colonna,Differibile,140
+ARNAS,"RM della colonna, senza e con contrasto",Differibile,n/a
+ARNAS,Diagnostica ecografica del capo e del collo,Differibile,59
+ARNAS,Eco (color) dopplergrafia cardiaca,Differibile,n/a
+ARNAS,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,68
+ARNAS,Ecografia dell'addome superiore,Differibile,42
+ARNAS,Ecografia dell'addome inferiore,Differibile,n/a
+ARNAS,Ecografia dell'addome completo,Differibile,98
+ARNAS,Ecografia bilaterale della mammella,Differibile,159
+ARNAS,Ecografia monolaterale della mammella,Differibile,n/a
+ARNAS,Ecografia ostetrica,Differibile,n/a
+ARNAS,Ecografia ginecologica,Differibile,8
+ARNAS,Ecocolordoppler degli arti superioro o inferiori,Differibile,n/a
+ARNAS,Colonscopia con endoscopio flessibile,Differibile,450
+ARNAS,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+ARNAS,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+ARNAS,Esofagogastroduodenoscopia,Differibile,n/a
+ARNAS,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+ARNAS,Elettrocardiogramma,Differibile,24
+ARNAS,Elettrocardiogramma dinamico (Holter),Differibile,n/a
+ARNAS,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+ARNAS,Altri test cardiovascolari da sforzo,Differibile,n/a
+ARNAS,Esame audiometrico tonale,Differibile,n/a
+ARNAS,Spirometria semplice,Differibile,n/a
+ARNAS,Spirometria globale,Differibile,n/a
+ARNAS,Fotografia del Fondus,Differibile,n/a
+ARNAS,Elettromiografia semplice [EMG],Differibile,81
+ARNAS,Prima Visita cardiologica,Programmabile,n/a
+ARNAS,Prima Visita chirurgia vascolare,Programmabile,n/a
+ARNAS,Prima Visita endocrinologica,Programmabile,n/a
+ARNAS,Prima Visita neurologica,Programmabile,110
+ARNAS,Prima Visita oculistica,Programmabile,432
+ARNAS,Prima Visita ortopedica,Programmabile,n/a
+ARNAS,Prima Visita ginecologica,Programmabile,n/a
+ARNAS,Prima Visita otorinolaringoiatrica,Programmabile,n/a
+ARNAS,Prima Visita urologica,Programmabile,239
+ARNAS,Prima Visita dermatologica,Programmabile,74
+ARNAS,Prima Visita fisiatrica,Programmabile,n/a
+ARNAS,Prima Visita gastroenterologica,Programmabile,374
+ARNAS,Prima Visita oncologica,Programmabile,n/a
+ARNAS,Prima Visita pneumologica,Programmabile,n/a
+ARNAS,Mammografia bilaterale,Programmabile,n/a
+ARNAS,Mammografia monolaterale,Programmabile,n/a
+ARNAS,TC del torace,Programmabile,128
+ARNAS,"TC del torace, senza e con contrasto",Programmabile,192
+ARNAS,TC dell'addome superiore,Programmabile,n/a
+ARNAS,"TC dell'addome superiore, senza e con contrasto",Programmabile,2
+ARNAS,TC dell'Addome inferiore,Programmabile,n/a
+ARNAS,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+ARNAS,TC dell'Addome completo,Programmabile,14
+ARNAS,"TC dell'Addome completo, senza e con contrasto",Programmabile,330
+ARNAS,TC del cranio e dell'encefalo,Programmabile,n/a
+ARNAS,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+ARNAS,TC del rachide e dello speco vertebrale,Programmabile,n/a
+ARNAS,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+ARNAS,TC del Bacino,Programmabile,n/a
+ARNAS,RM del cervello e del tronco encefalico,Programmabile,n/a
+ARNAS,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,868
+ARNAS,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+ARNAS,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,785
+ARNAS,RM della colonna,Programmabile,n/a
+ARNAS,"RM della colonna, senza e con contrasto",Programmabile,885
+ARNAS,Diagnostica ecografica del capo e del collo,Programmabile,162
+ARNAS,Eco (color) dopplergrafia cardiaca,Programmabile,n/a
+ARNAS,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,34
+ARNAS,Ecografia dell'addome superiore,Programmabile,61
+ARNAS,Ecografia dell'addome inferiore,Programmabile,n/a
+ARNAS,Ecografia dell'addome completo,Programmabile,88
+ARNAS,Ecografia bilaterale della mammella,Programmabile,n/a
+ARNAS,Ecografia monolaterale della mammella,Programmabile,n/a
+ARNAS,Ecografia ostetrica,Programmabile,n/a
+ARNAS,Ecografia ginecologica,Programmabile,47
+ARNAS,Ecocolordoppler degli arti superioro o inferiori,Programmabile,n/a
+ARNAS,Colonscopia con endoscopio flessibile,Programmabile,n/a
+ARNAS,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+ARNAS,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+ARNAS,Esofagogastroduodenoscopia,Programmabile,n/a
+ARNAS,Esofagogastroduodenoscopia con biopsia,Programmabile,n/a
+ARNAS,Elettrocardiogramma,Programmabile,n/a
+ARNAS,Elettrocardiogramma dinamico (Holter),Programmabile,n/a
+ARNAS,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+ARNAS,Altri test cardiovascolari da sforzo,Programmabile,n/a
+ARNAS,Esame audiometrico tonale,Programmabile,n/a
+ARNAS,Spirometria semplice,Programmabile,n/a
+ARNAS,Spirometria globale,Programmabile,n/a
+ARNAS,Fotografia del Fondus,Programmabile,n/a
+ARNAS,Elettromiografia semplice [EMG],Programmabile,35
+AOU_SS,Prima Visita cardiologica,Breve,n/a
+AOU_SS,Prima Visita chirurgia vascolare,Breve,n/a
+AOU_SS,Prima Visita endocrinologica,Breve,7
+AOU_SS,Prima Visita neurologica,Breve,8
+AOU_SS,Prima Visita oculistica,Breve,8
+AOU_SS,Prima Visita ortopedica,Breve,n/a
+AOU_SS,Prima Visita ginecologica,Breve,n/a
+AOU_SS,Prima Visita otorinolaringoiatrica,Breve,n/a
+AOU_SS,Prima Visita urologica,Breve,8
+AOU_SS,Prima Visita dermatologica,Breve,n/a
+AOU_SS,Prima Visita fisiatrica,Breve,n/a
+AOU_SS,Prima Visita gastroenterologica,Breve,n/a
+AOU_SS,Prima Visita oncologica,Breve,n/a
+AOU_SS,Prima Visita pneumologica,Breve,10
+AOU_SS,Mammografia bilaterale,Breve,6
+AOU_SS,Mammografia monolaterale,Breve,n/a
+AOU_SS,TC del torace,Breve,n/a
+AOU_SS,"TC del torace, senza e con contrasto",Breve,9
+AOU_SS,TC dell'addome superiore,Breve,n/a
+AOU_SS,"TC dell'addome superiore, senza e con contrasto",Breve,n/a
+AOU_SS,TC dell'Addome inferiore,Breve,n/a
+AOU_SS,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+AOU_SS,TC dell'Addome completo,Breve,n/a
+AOU_SS,"TC dell'Addome completo, senza e con contrasto",Breve,5
+AOU_SS,TC del cranio e dell'encefalo,Breve,n/a
+AOU_SS,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+AOU_SS,TC del rachide e dello speco vertebrale,Breve,n/a
+AOU_SS,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+AOU_SS,TC del Bacino,Breve,n/a
+AOU_SS,RM del cervello e del tronco encefalico,Breve,n/a
+AOU_SS,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,9
+AOU_SS,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+AOU_SS,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+AOU_SS,RM della colonna,Breve,n/a
+AOU_SS,"RM della colonna, senza e con contrasto",Breve,n/a
+AOU_SS,Diagnostica ecografica del capo e del collo,Breve,n/a
+AOU_SS,Eco (color) dopplergrafia cardiaca,Breve,n/a
+AOU_SS,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,n/a
+AOU_SS,Ecografia dell'addome superiore,Breve,n/a
+AOU_SS,Ecografia dell'addome inferiore,Breve,n/a
+AOU_SS,Ecografia dell'addome completo,Breve,7
+AOU_SS,Ecografia bilaterale della mammella,Breve,5
+AOU_SS,Ecografia monolaterale della mammella,Breve,4
+AOU_SS,Ecografia ostetrica,Breve,n/a
+AOU_SS,Ecografia ginecologica,Breve,n/a
+AOU_SS,Ecocolordoppler degli arti superioro o inferiori,Breve,n/a
+AOU_SS,Colonscopia con endoscopio flessibile,Breve,10
+AOU_SS,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+AOU_SS,Sigmoidoscopia con endoscopio flessibile,Breve,8
+AOU_SS,Esofagogastroduodenoscopia,Breve,n/a
+AOU_SS,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+AOU_SS,Elettrocardiogramma,Breve,n/a
+AOU_SS,Elettrocardiogramma dinamico (Holter),Breve,n/a
+AOU_SS,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+AOU_SS,Altri test cardiovascolari da sforzo,Breve,n/a
+AOU_SS,Esame audiometrico tonale,Breve,8
+AOU_SS,Spirometria semplice,Breve,10
+AOU_SS,Spirometria globale,Breve,8
+AOU_SS,Fotografia del Fondus,Breve,n/a
+AOU_SS,Elettromiografia semplice [EMG],Breve,n/a
+AOU_SS,Prima Visita cardiologica,Differibile,134
+AOU_SS,Prima Visita chirurgia vascolare,Differibile,229
+AOU_SS,Prima Visita endocrinologica,Differibile,185
+AOU_SS,Prima Visita neurologica,Differibile,247
+AOU_SS,Prima Visita oculistica,Differibile,186
+AOU_SS,Prima Visita ortopedica,Differibile,62
+AOU_SS,Prima Visita ginecologica,Differibile,54
+AOU_SS,Prima Visita otorinolaringoiatrica,Differibile,54
+AOU_SS,Prima Visita urologica,Differibile,n/a
+AOU_SS,Prima Visita dermatologica,Differibile,325
+AOU_SS,Prima Visita fisiatrica,Differibile,n/a
+AOU_SS,Prima Visita gastroenterologica,Differibile,128
+AOU_SS,Prima Visita oncologica,Differibile,n/a
+AOU_SS,Prima Visita pneumologica,Differibile,n/a
+AOU_SS,Mammografia bilaterale,Differibile,n/a
+AOU_SS,Mammografia monolaterale,Differibile,n/a
+AOU_SS,TC del torace,Differibile,n/a
+AOU_SS,"TC del torace, senza e con contrasto",Differibile,n/a
+AOU_SS,TC dell'addome superiore,Differibile,n/a
+AOU_SS,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+AOU_SS,TC dell'Addome inferiore,Differibile,n/a
+AOU_SS,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+AOU_SS,TC dell'Addome completo,Differibile,n/a
+AOU_SS,"TC dell'Addome completo, senza e con contrasto",Differibile,224
+AOU_SS,TC del cranio e dell'encefalo,Differibile,n/a
+AOU_SS,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+AOU_SS,TC del rachide e dello speco vertebrale,Differibile,n/a
+AOU_SS,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+AOU_SS,TC del Bacino,Differibile,n/a
+AOU_SS,RM del cervello e del tronco encefalico,Differibile,n/a
+AOU_SS,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,n/a
+AOU_SS,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+AOU_SS,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+AOU_SS,RM della colonna,Differibile,n/a
+AOU_SS,"RM della colonna, senza e con contrasto",Differibile,n/a
+AOU_SS,Diagnostica ecografica del capo e del collo,Differibile,n/a
+AOU_SS,Eco (color) dopplergrafia cardiaca,Differibile,138
+AOU_SS,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,n/a
+AOU_SS,Ecografia dell'addome superiore,Differibile,n/a
+AOU_SS,Ecografia dell'addome inferiore,Differibile,n/a
+AOU_SS,Ecografia dell'addome completo,Differibile,n/a
+AOU_SS,Ecografia bilaterale della mammella,Differibile,6
+AOU_SS,Ecografia monolaterale della mammella,Differibile,n/a
+AOU_SS,Ecografia ostetrica,Differibile,99
+AOU_SS,Ecografia ginecologica,Differibile,113
+AOU_SS,Ecocolordoppler degli arti superioro o inferiori,Differibile,n/a
+AOU_SS,Colonscopia con endoscopio flessibile,Differibile,n/a
+AOU_SS,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+AOU_SS,Sigmoidoscopia con endoscopio flessibile,Differibile,8
+AOU_SS,Esofagogastroduodenoscopia,Differibile,n/a
+AOU_SS,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+AOU_SS,Elettrocardiogramma,Differibile,134
+AOU_SS,Elettrocardiogramma dinamico (Holter),Differibile,n/a
+AOU_SS,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+AOU_SS,Altri test cardiovascolari da sforzo,Differibile,n/a
+AOU_SS,Esame audiometrico tonale,Differibile,57
+AOU_SS,Spirometria semplice,Differibile,n/a
+AOU_SS,Spirometria globale,Differibile,184
+AOU_SS,Fotografia del Fondus,Differibile,n/a
+AOU_SS,Elettromiografia semplice [EMG],Differibile,n/a
+AOU_SS,Prima Visita cardiologica,Programmabile,187
+AOU_SS,Prima Visita chirurgia vascolare,Programmabile,n/a
+AOU_SS,Prima Visita endocrinologica,Programmabile,210
+AOU_SS,Prima Visita neurologica,Programmabile,n/a
+AOU_SS,Prima Visita oculistica,Programmabile,208
+AOU_SS,Prima Visita ortopedica,Programmabile,129
+AOU_SS,Prima Visita ginecologica,Programmabile,n/a
+AOU_SS,Prima Visita otorinolaringoiatrica,Programmabile,51
+AOU_SS,Prima Visita urologica,Programmabile,n/a
+AOU_SS,Prima Visita dermatologica,Programmabile,1
+AOU_SS,Prima Visita fisiatrica,Programmabile,n/a
+AOU_SS,Prima Visita gastroenterologica,Programmabile,140
+AOU_SS,Prima Visita oncologica,Programmabile,n/a
+AOU_SS,Prima Visita pneumologica,Programmabile,142
+AOU_SS,Mammografia bilaterale,Programmabile,n/a
+AOU_SS,Mammografia monolaterale,Programmabile,n/a
+AOU_SS,TC del torace,Programmabile,5
+AOU_SS,"TC del torace, senza e con contrasto",Programmabile,n/a
+AOU_SS,TC dell'addome superiore,Programmabile,n/a
+AOU_SS,"TC dell'addome superiore, senza e con contrasto",Programmabile,n/a
+AOU_SS,TC dell'Addome inferiore,Programmabile,n/a
+AOU_SS,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+AOU_SS,TC dell'Addome completo,Programmabile,n/a
+AOU_SS,"TC dell'Addome completo, senza e con contrasto",Programmabile,n/a
+AOU_SS,TC del cranio e dell'encefalo,Programmabile,n/a
+AOU_SS,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+AOU_SS,TC del rachide e dello speco vertebrale,Programmabile,n/a
+AOU_SS,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+AOU_SS,TC del Bacino,Programmabile,n/a
+AOU_SS,RM del cervello e del tronco encefalico,Programmabile,n/a
+AOU_SS,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,n/a
+AOU_SS,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+AOU_SS,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+AOU_SS,RM della colonna,Programmabile,n/a
+AOU_SS,"RM della colonna, senza e con contrasto",Programmabile,280
+AOU_SS,Diagnostica ecografica del capo e del collo,Programmabile,n/a
+AOU_SS,Eco (color) dopplergrafia cardiaca,Programmabile,288
+AOU_SS,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,n/a
+AOU_SS,Ecografia dell'addome superiore,Programmabile,n/a
+AOU_SS,Ecografia dell'addome inferiore,Programmabile,n/a
+AOU_SS,Ecografia dell'addome completo,Programmabile,79
+AOU_SS,Ecografia bilaterale della mammella,Programmabile,152
+AOU_SS,Ecografia monolaterale della mammella,Programmabile,n/a
+AOU_SS,Ecografia ostetrica,Programmabile,63
+AOU_SS,Ecografia ginecologica,Programmabile,n/a
+AOU_SS,Ecocolordoppler degli arti superioro o inferiori,Programmabile,n/a
+AOU_SS,Colonscopia con endoscopio flessibile,Programmabile,18
+AOU_SS,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+AOU_SS,Sigmoidoscopia con endoscopio flessibile,Programmabile,58
+AOU_SS,Esofagogastroduodenoscopia,Programmabile,n/a
+AOU_SS,Esofagogastroduodenoscopia con biopsia,Programmabile,n/a
+AOU_SS,Elettrocardiogramma,Programmabile,213
+AOU_SS,Elettrocardiogramma dinamico (Holter),Programmabile,n/a
+AOU_SS,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+AOU_SS,Altri test cardiovascolari da sforzo,Programmabile,n/a
+AOU_SS,Esame audiometrico tonale,Programmabile,71
+AOU_SS,Spirometria semplice,Programmabile,154
+AOU_SS,Spirometria globale,Programmabile,203
+AOU_SS,Fotografia del Fondus,Programmabile,n/a
+AOU_SS,Elettromiografia semplice [EMG],Programmabile,n/a
+AOU_CA,Prima Visita cardiologica,Breve,n/a
+AOU_CA,Prima Visita chirurgia vascolare,Breve,n/a
+AOU_CA,Prima Visita endocrinologica,Breve,n/a
+AOU_CA,Prima Visita neurologica,Breve,n/a
+AOU_CA,Prima Visita oculistica,Breve,n/a
+AOU_CA,Prima Visita ortopedica,Breve,n/a
+AOU_CA,Prima Visita ginecologica,Breve,n/a
+AOU_CA,Prima Visita otorinolaringoiatrica,Breve,n/a
+AOU_CA,Prima Visita urologica,Breve,n/a
+AOU_CA,Prima Visita dermatologica,Breve,n/a
+AOU_CA,Prima Visita fisiatrica,Breve,n/a
+AOU_CA,Prima Visita gastroenterologica,Breve,n/a
+AOU_CA,Prima Visita oncologica,Breve,n/a
+AOU_CA,Prima Visita pneumologica,Breve,n/a
+AOU_CA,Mammografia bilaterale,Breve,n/a
+AOU_CA,Mammografia monolaterale,Breve,n/a
+AOU_CA,TC del torace,Breve,n/a
+AOU_CA,"TC del torace, senza e con contrasto",Breve,n/a
+AOU_CA,TC dell'addome superiore,Breve,n/a
+AOU_CA,"TC dell'addome superiore, senza e con contrasto",Breve,8
+AOU_CA,TC dell'Addome inferiore,Breve,n/a
+AOU_CA,"TC dell'Addome inferiore, senza e con contrasto",Breve,n/a
+AOU_CA,TC dell'Addome completo,Breve,n/a
+AOU_CA,"TC dell'Addome completo, senza e con contrasto",Breve,10
+AOU_CA,TC del cranio e dell'encefalo,Breve,n/a
+AOU_CA,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+AOU_CA,TC del rachide e dello speco vertebrale,Breve,n/a
+AOU_CA,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+AOU_CA,TC del Bacino,Breve,n/a
+AOU_CA,RM del cervello e del tronco encefalico,Breve,n/a
+AOU_CA,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,n/a
+AOU_CA,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+AOU_CA,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,n/a
+AOU_CA,RM della colonna,Breve,n/a
+AOU_CA,"RM della colonna, senza e con contrasto",Breve,n/a
+AOU_CA,Diagnostica ecografica del capo e del collo,Breve,n/a
+AOU_CA,Eco (color) dopplergrafia cardiaca,Breve,n/a
+AOU_CA,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,n/a
+AOU_CA,Ecografia dell'addome superiore,Breve,n/a
+AOU_CA,Ecografia dell'addome inferiore,Breve,n/a
+AOU_CA,Ecografia dell'addome completo,Breve,9
+AOU_CA,Ecografia bilaterale della mammella,Breve,n/a
+AOU_CA,Ecografia monolaterale della mammella,Breve,n/a
+AOU_CA,Ecografia ostetrica,Breve,4
+AOU_CA,Ecografia ginecologica,Breve,n/a
+AOU_CA,Ecocolordoppler degli arti superioro o inferiori,Breve,n/a
+AOU_CA,Colonscopia con endoscopio flessibile,Breve,n/a
+AOU_CA,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+AOU_CA,Sigmoidoscopia con endoscopio flessibile,Breve,n/a
+AOU_CA,Esofagogastroduodenoscopia,Breve,10
+AOU_CA,Esofagogastroduodenoscopia con biopsia,Breve,n/a
+AOU_CA,Elettrocardiogramma,Breve,n/a
+AOU_CA,Elettrocardiogramma dinamico (Holter),Breve,n/a
+AOU_CA,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+AOU_CA,Altri test cardiovascolari da sforzo,Breve,n/a
+AOU_CA,Esame audiometrico tonale,Breve,n/a
+AOU_CA,Spirometria semplice,Breve,n/a
+AOU_CA,Spirometria globale,Breve,n/a
+AOU_CA,Fotografia del Fondus,Breve,n/a
+AOU_CA,Elettromiografia semplice [EMG],Breve,n/a
+AOU_CA,Prima Visita cardiologica,Differibile,n/a
+AOU_CA,Prima Visita chirurgia vascolare,Differibile,112
+AOU_CA,Prima Visita endocrinologica,Differibile,162
+AOU_CA,Prima Visita neurologica,Differibile,235
+AOU_CA,Prima Visita oculistica,Differibile,92
+AOU_CA,Prima Visita ortopedica,Differibile,4
+AOU_CA,Prima Visita ginecologica,Differibile,n/a
+AOU_CA,Prima Visita otorinolaringoiatrica,Differibile,26
+AOU_CA,Prima Visita urologica,Differibile,n/a
+AOU_CA,Prima Visita dermatologica,Differibile,102
+AOU_CA,Prima Visita fisiatrica,Differibile,n/a
+AOU_CA,Prima Visita gastroenterologica,Differibile,n/a
+AOU_CA,Prima Visita oncologica,Differibile,n/a
+AOU_CA,Prima Visita pneumologica,Differibile,n/a
+AOU_CA,Mammografia bilaterale,Differibile,n/a
+AOU_CA,Mammografia monolaterale,Differibile,n/a
+AOU_CA,TC del torace,Differibile,n/a
+AOU_CA,"TC del torace, senza e con contrasto",Differibile,n/a
+AOU_CA,TC dell'addome superiore,Differibile,n/a
+AOU_CA,"TC dell'addome superiore, senza e con contrasto",Differibile,n/a
+AOU_CA,TC dell'Addome inferiore,Differibile,n/a
+AOU_CA,"TC dell'Addome inferiore, senza e con contrasto",Differibile,n/a
+AOU_CA,TC dell'Addome completo,Differibile,n/a
+AOU_CA,"TC dell'Addome completo, senza e con contrasto",Differibile,n/a
+AOU_CA,TC del cranio e dell'encefalo,Differibile,n/a
+AOU_CA,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,n/a
+AOU_CA,TC del rachide e dello speco vertebrale,Differibile,n/a
+AOU_CA,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+AOU_CA,TC del Bacino,Differibile,n/a
+AOU_CA,RM del cervello e del tronco encefalico,Differibile,1
+AOU_CA,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,0
+AOU_CA,RM dell'addome inferiore e scavo pelvico,Differibile,n/a
+AOU_CA,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,n/a
+AOU_CA,RM della colonna,Differibile,n/a
+AOU_CA,"RM della colonna, senza e con contrasto",Differibile,n/a
+AOU_CA,Diagnostica ecografica del capo e del collo,Differibile,45
+AOU_CA,Eco (color) dopplergrafia cardiaca,Differibile,16
+AOU_CA,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,160
+AOU_CA,Ecografia dell'addome superiore,Differibile,161
+AOU_CA,Ecografia dell'addome inferiore,Differibile,n/a
+AOU_CA,Ecografia dell'addome completo,Differibile,83
+AOU_CA,Ecografia bilaterale della mammella,Differibile,n/a
+AOU_CA,Ecografia monolaterale della mammella,Differibile,n/a
+AOU_CA,Ecografia ostetrica,Differibile,6
+AOU_CA,Ecografia ginecologica,Differibile,51
+AOU_CA,Ecocolordoppler degli arti superioro o inferiori,Differibile,n/a
+AOU_CA,Colonscopia con endoscopio flessibile,Differibile,278
+AOU_CA,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+AOU_CA,Sigmoidoscopia con endoscopio flessibile,Differibile,n/a
+AOU_CA,Esofagogastroduodenoscopia,Differibile,n/a
+AOU_CA,Esofagogastroduodenoscopia con biopsia,Differibile,n/a
+AOU_CA,Elettrocardiogramma,Differibile,n/a
+AOU_CA,Elettrocardiogramma dinamico (Holter),Differibile,n/a
+AOU_CA,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,n/a
+AOU_CA,Altri test cardiovascolari da sforzo,Differibile,n/a
+AOU_CA,Esame audiometrico tonale,Differibile,n/a
+AOU_CA,Spirometria semplice,Differibile,n/a
+AOU_CA,Spirometria globale,Differibile,n/a
+AOU_CA,Fotografia del Fondus,Differibile,n/a
+AOU_CA,Elettromiografia semplice [EMG],Differibile,n/a
+AOU_CA,Prima Visita cardiologica,Programmabile,190
+AOU_CA,Prima Visita chirurgia vascolare,Programmabile,104
+AOU_CA,Prima Visita endocrinologica,Programmabile,181
+AOU_CA,Prima Visita neurologica,Programmabile,244
+AOU_CA,Prima Visita oculistica,Programmabile,121
+AOU_CA,Prima Visita ortopedica,Programmabile,35
+AOU_CA,Prima Visita ginecologica,Programmabile,131
+AOU_CA,Prima Visita otorinolaringoiatrica,Programmabile,66
+AOU_CA,Prima Visita urologica,Programmabile,n/a
+AOU_CA,Prima Visita dermatologica,Programmabile,188
+AOU_CA,Prima Visita fisiatrica,Programmabile,n/a
+AOU_CA,Prima Visita gastroenterologica,Programmabile,280
+AOU_CA,Prima Visita oncologica,Programmabile,n/a
+AOU_CA,Prima Visita pneumologica,Programmabile,n/a
+AOU_CA,Mammografia bilaterale,Programmabile,268
+AOU_CA,Mammografia monolaterale,Programmabile,14
+AOU_CA,TC del torace,Programmabile,n/a
+AOU_CA,"TC del torace, senza e con contrasto",Programmabile,n/a
+AOU_CA,TC dell'addome superiore,Programmabile,n/a
+AOU_CA,"TC dell'addome superiore, senza e con contrasto",Programmabile,n/a
+AOU_CA,TC dell'Addome inferiore,Programmabile,n/a
+AOU_CA,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,n/a
+AOU_CA,TC dell'Addome completo,Programmabile,n/a
+AOU_CA,"TC dell'Addome completo, senza e con contrasto",Programmabile,n/a
+AOU_CA,TC del cranio e dell'encefalo,Programmabile,n/a
+AOU_CA,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,n/a
+AOU_CA,TC del rachide e dello speco vertebrale,Programmabile,n/a
+AOU_CA,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+AOU_CA,TC del Bacino,Programmabile,n/a
+AOU_CA,RM del cervello e del tronco encefalico,Programmabile,n/a
+AOU_CA,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,n/a
+AOU_CA,RM dell'addome inferiore e scavo pelvico,Programmabile,n/a
+AOU_CA,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,n/a
+AOU_CA,RM della colonna,Programmabile,n/a
+AOU_CA,"RM della colonna, senza e con contrasto",Programmabile,n/a
+AOU_CA,Diagnostica ecografica del capo e del collo,Programmabile,207
+AOU_CA,Eco (color) dopplergrafia cardiaca,Programmabile,190
+AOU_CA,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,296
+AOU_CA,Ecografia dell'addome superiore,Programmabile,200
+AOU_CA,Ecografia dell'addome inferiore,Programmabile,63
+AOU_CA,Ecografia dell'addome completo,Programmabile,100
+AOU_CA,Ecografia bilaterale della mammella,Programmabile,31
+AOU_CA,Ecografia monolaterale della mammella,Programmabile,n/a
+AOU_CA,Ecografia ostetrica,Programmabile,12
+AOU_CA,Ecografia ginecologica,Programmabile,28
+AOU_CA,Ecocolordoppler degli arti superioro o inferiori,Programmabile,n/a
+AOU_CA,Colonscopia con endoscopio flessibile,Programmabile,220
+AOU_CA,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+AOU_CA,Sigmoidoscopia con endoscopio flessibile,Programmabile,n/a
+AOU_CA,Esofagogastroduodenoscopia,Programmabile,n/a
+AOU_CA,Esofagogastroduodenoscopia con biopsia,Programmabile,n/a
+AOU_CA,Elettrocardiogramma,Programmabile,190
+AOU_CA,Elettrocardiogramma dinamico (Holter),Programmabile,139
+AOU_CA,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,n/a
+AOU_CA,Altri test cardiovascolari da sforzo,Programmabile,n/a
+AOU_CA,Esame audiometrico tonale,Programmabile,n/a
+AOU_CA,Spirometria semplice,Programmabile,n/a
+AOU_CA,Spirometria globale,Programmabile,n/a
+AOU_CA,Fotografia del Fondus,Programmabile,n/a
+AOU_CA,Elettromiografia semplice [EMG],Programmabile,1
+Regione_Sardegna,Prima Visita cardiologica,Breve,7
+Regione_Sardegna,Prima Visita chirurgia vascolare,Breve,7
+Regione_Sardegna,Prima Visita endocrinologica,Breve,7
+Regione_Sardegna,Prima Visita neurologica,Breve,9
+Regione_Sardegna,Prima Visita oculistica,Breve,6
+Regione_Sardegna,Prima Visita ortopedica,Breve,8
+Regione_Sardegna,Prima Visita ginecologica,Breve,6
+Regione_Sardegna,Prima Visita otorinolaringoiatrica,Breve,6
+Regione_Sardegna,Prima Visita urologica,Breve,8
+Regione_Sardegna,Prima Visita dermatologica,Breve,51
+Regione_Sardegna,Prima Visita fisiatrica,Breve,6
+Regione_Sardegna,Prima Visita gastroenterologica,Breve,10
+Regione_Sardegna,Prima Visita oncologica,Breve,n/a
+Regione_Sardegna,Prima Visita pneumologica,Breve,9
+Regione_Sardegna,Mammografia bilaterale,Breve,5
+Regione_Sardegna,Mammografia monolaterale,Breve,6
+Regione_Sardegna,TC del torace,Breve,7
+Regione_Sardegna,"TC del torace, senza e con contrasto",Breve,8
+Regione_Sardegna,TC dell'addome superiore,Breve,3
+Regione_Sardegna,"TC dell'addome superiore, senza e con contrasto",Breve,8
+Regione_Sardegna,TC dell'Addome inferiore,Breve,n/a
+Regione_Sardegna,"TC dell'Addome inferiore, senza e con contrasto",Breve,10
+Regione_Sardegna,TC dell'Addome completo,Breve,7
+Regione_Sardegna,"TC dell'Addome completo, senza e con contrasto",Breve,7
+Regione_Sardegna,TC del cranio e dell'encefalo,Breve,9
+Regione_Sardegna,"TC del cranio e dell'encefalo, senza e con contrasto",Breve,n/a
+Regione_Sardegna,TC del rachide e dello speco vertebrale,Breve,n/a
+Regione_Sardegna,"TC del rachide e dello speco vertebrale, senza e con contrasto",Breve,n/a
+Regione_Sardegna,TC del Bacino,Breve,6
+Regione_Sardegna,RM del cervello e del tronco encefalico,Breve,9
+Regione_Sardegna,"RM del cervello e del tronco encefalico, senza e con contrasto",Breve,31
+Regione_Sardegna,RM dell'addome inferiore e scavo pelvico,Breve,n/a
+Regione_Sardegna,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Breve,10
+Regione_Sardegna,RM della colonna,Breve,9
+Regione_Sardegna,"RM della colonna, senza e con contrasto",Breve,277
+Regione_Sardegna,Diagnostica ecografica del capo e del collo,Breve,7
+Regione_Sardegna,Eco (color) dopplergrafia cardiaca,Breve,5
+Regione_Sardegna,Eco (color) dopplergrafia  dei tronchi sovraaortici,Breve,6
+Regione_Sardegna,Ecografia dell'addome superiore,Breve,6
+Regione_Sardegna,Ecografia dell'addome inferiore,Breve,8
+Regione_Sardegna,Ecografia dell'addome completo,Breve,7
+Regione_Sardegna,Ecografia bilaterale della mammella,Breve,6
+Regione_Sardegna,Ecografia monolaterale della mammella,Breve,5
+Regione_Sardegna,Ecografia ostetrica,Breve,4
+Regione_Sardegna,Ecografia ginecologica,Breve,5
+Regione_Sardegna,Ecocolordoppler degli arti superioro o inferiori,Breve,9
+Regione_Sardegna,Colonscopia con endoscopio flessibile,Breve,12
+Regione_Sardegna,Polipectomia endoscopica dell'intestino crasso,Breve,n/a
+Regione_Sardegna,Sigmoidoscopia con endoscopio flessibile,Breve,8
+Regione_Sardegna,Esofagogastroduodenoscopia,Breve,27
+Regione_Sardegna,Esofagogastroduodenoscopia con biopsia,Breve,71
+Regione_Sardegna,Elettrocardiogramma,Breve,5
+Regione_Sardegna,Elettrocardiogramma dinamico (Holter),Breve,9
+Regione_Sardegna,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Breve,n/a
+Regione_Sardegna,Altri test cardiovascolari da sforzo,Breve,n/a
+Regione_Sardegna,Esame audiometrico tonale,Breve,7
+Regione_Sardegna,Spirometria semplice,Breve,6
+Regione_Sardegna,Spirometria globale,Breve,8
+Regione_Sardegna,Fotografia del Fondus,Breve,n/a
+Regione_Sardegna,Elettromiografia semplice [EMG],Breve,9
+Regione_Sardegna,Prima Visita cardiologica,Differibile,92
+Regione_Sardegna,Prima Visita chirurgia vascolare,Differibile,152
+Regione_Sardegna,Prima Visita endocrinologica,Differibile,156
+Regione_Sardegna,Prima Visita neurologica,Differibile,87
+Regione_Sardegna,Prima Visita oculistica,Differibile,140
+Regione_Sardegna,Prima Visita ortopedica,Differibile,61
+Regione_Sardegna,Prima Visita ginecologica,Differibile,32
+Regione_Sardegna,Prima Visita otorinolaringoiatrica,Differibile,46
+Regione_Sardegna,Prima Visita urologica,Differibile,158
+Regione_Sardegna,Prima Visita dermatologica,Differibile,137
+Regione_Sardegna,Prima Visita fisiatrica,Differibile,78
+Regione_Sardegna,Prima Visita gastroenterologica,Differibile,102
+Regione_Sardegna,Prima Visita oncologica,Differibile,278
+Regione_Sardegna,Prima Visita pneumologica,Differibile,162
+Regione_Sardegna,Mammografia bilaterale,Differibile,135
+Regione_Sardegna,Mammografia monolaterale,Differibile,214
+Regione_Sardegna,TC del torace,Differibile,45
+Regione_Sardegna,"TC del torace, senza e con contrasto",Differibile,59
+Regione_Sardegna,TC dell'addome superiore,Differibile,n/a
+Regione_Sardegna,"TC dell'addome superiore, senza e con contrasto",Differibile,54
+Regione_Sardegna,TC dell'Addome inferiore,Differibile,n/a
+Regione_Sardegna,"TC dell'Addome inferiore, senza e con contrasto",Differibile,69
+Regione_Sardegna,TC dell'Addome completo,Differibile,36
+Regione_Sardegna,"TC dell'Addome completo, senza e con contrasto",Differibile,49
+Regione_Sardegna,TC del cranio e dell'encefalo,Differibile,n/a
+Regione_Sardegna,"TC del cranio e dell'encefalo, senza e con contrasto",Differibile,29
+Regione_Sardegna,TC del rachide e dello speco vertebrale,Differibile,52
+Regione_Sardegna,"TC del rachide e dello speco vertebrale, senza e con contrasto",Differibile,n/a
+Regione_Sardegna,TC del Bacino,Differibile,33
+Regione_Sardegna,RM del cervello e del tronco encefalico,Differibile,101
+Regione_Sardegna,"RM del cervello e del tronco encefalico, senza e con contrasto",Differibile,295
+Regione_Sardegna,RM dell'addome inferiore e scavo pelvico,Differibile,148
+Regione_Sardegna,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Differibile,541
+Regione_Sardegna,RM della colonna,Differibile,89
+Regione_Sardegna,"RM della colonna, senza e con contrasto",Differibile,184
+Regione_Sardegna,Diagnostica ecografica del capo e del collo,Differibile,87
+Regione_Sardegna,Eco (color) dopplergrafia cardiaca,Differibile,137
+Regione_Sardegna,Eco (color) dopplergrafia  dei tronchi sovraaortici,Differibile,85
+Regione_Sardegna,Ecografia dell'addome superiore,Differibile,57
+Regione_Sardegna,Ecografia dell'addome inferiore,Differibile,91
+Regione_Sardegna,Ecografia dell'addome completo,Differibile,68
+Regione_Sardegna,Ecografia bilaterale della mammella,Differibile,131
+Regione_Sardegna,Ecografia monolaterale della mammella,Differibile,8
+Regione_Sardegna,Ecografia ostetrica,Differibile,37
+Regione_Sardegna,Ecografia ginecologica,Differibile,34
+Regione_Sardegna,Ecocolordoppler degli arti superioro o inferiori,Differibile,63
+Regione_Sardegna,Colonscopia con endoscopio flessibile,Differibile,268
+Regione_Sardegna,Polipectomia endoscopica dell'intestino crasso,Differibile,n/a
+Regione_Sardegna,Sigmoidoscopia con endoscopio flessibile,Differibile,8
+Regione_Sardegna,Esofagogastroduodenoscopia,Differibile,106
+Regione_Sardegna,Esofagogastroduodenoscopia con biopsia,Differibile,203
+Regione_Sardegna,Elettrocardiogramma,Differibile,98
+Regione_Sardegna,Elettrocardiogramma dinamico (Holter),Differibile,88
+Regione_Sardegna,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Differibile,53
+Regione_Sardegna,Altri test cardiovascolari da sforzo,Differibile,n/a
+Regione_Sardegna,Esame audiometrico tonale,Differibile,37
+Regione_Sardegna,Spirometria semplice,Differibile,108
+Regione_Sardegna,Spirometria globale,Differibile,101
+Regione_Sardegna,Fotografia del Fondus,Differibile,52
+Regione_Sardegna,Elettromiografia semplice [EMG],Differibile,63
+Regione_Sardegna,Prima Visita cardiologica,Programmabile,156
+Regione_Sardegna,Prima Visita chirurgia vascolare,Programmabile,255
+Regione_Sardegna,Prima Visita endocrinologica,Programmabile,177
+Regione_Sardegna,Prima Visita neurologica,Programmabile,111
+Regione_Sardegna,Prima Visita oculistica,Programmabile,166
+Regione_Sardegna,Prima Visita ortopedica,Programmabile,76
+Regione_Sardegna,Prima Visita ginecologica,Programmabile,55
+Regione_Sardegna,Prima Visita otorinolaringoiatrica,Programmabile,76
+Regione_Sardegna,Prima Visita urologica,Programmabile,197
+Regione_Sardegna,Prima Visita dermatologica,Programmabile,147
+Regione_Sardegna,Prima Visita fisiatrica,Programmabile,58
+Regione_Sardegna,Prima Visita gastroenterologica,Programmabile,178
+Regione_Sardegna,Prima Visita oncologica,Programmabile,102
+Regione_Sardegna,Prima Visita pneumologica,Programmabile,121
+Regione_Sardegna,Mammografia bilaterale,Programmabile,143
+Regione_Sardegna,Mammografia monolaterale,Programmabile,79
+Regione_Sardegna,TC del torace,Programmabile,68
+Regione_Sardegna,"TC del torace, senza e con contrasto",Programmabile,104
+Regione_Sardegna,TC dell'addome superiore,Programmabile,n/a
+Regione_Sardegna,"TC dell'addome superiore, senza e con contrasto",Programmabile,39
+Regione_Sardegna,TC dell'Addome inferiore,Programmabile,n/a
+Regione_Sardegna,"TC dell'Addome inferiore, senza e con contrasto",Programmabile,21
+Regione_Sardegna,TC dell'Addome completo,Programmabile,37
+Regione_Sardegna,"TC dell'Addome completo, senza e con contrasto",Programmabile,109
+Regione_Sardegna,TC del cranio e dell'encefalo,Programmabile,92
+Regione_Sardegna,"TC del cranio e dell'encefalo, senza e con contrasto",Programmabile,104
+Regione_Sardegna,TC del rachide e dello speco vertebrale,Programmabile,107
+Regione_Sardegna,"TC del rachide e dello speco vertebrale, senza e con contrasto",Programmabile,n/a
+Regione_Sardegna,TC del Bacino,Programmabile,n/a
+Regione_Sardegna,RM del cervello e del tronco encefalico,Programmabile,116
+Regione_Sardegna,"RM del cervello e del tronco encefalico, senza e con contrasto",Programmabile,489
+Regione_Sardegna,RM dell'addome inferiore e scavo pelvico,Programmabile,156
+Regione_Sardegna,"RM dell'addome inferiore e scavo pelvico, senza e con contrasto",Programmabile,704
+Regione_Sardegna,RM della colonna,Programmabile,122
+Regione_Sardegna,"RM della colonna, senza e con contrasto",Programmabile,425
+Regione_Sardegna,Diagnostica ecografica del capo e del collo,Programmabile,114
+Regione_Sardegna,Eco (color) dopplergrafia cardiaca,Programmabile,173
+Regione_Sardegna,Eco (color) dopplergrafia  dei tronchi sovraaortici,Programmabile,122
+Regione_Sardegna,Ecografia dell'addome superiore,Programmabile,100
+Regione_Sardegna,Ecografia dell'addome inferiore,Programmabile,83
+Regione_Sardegna,Ecografia dell'addome completo,Programmabile,96
+Regione_Sardegna,Ecografia bilaterale della mammella,Programmabile,143
+Regione_Sardegna,Ecografia monolaterale della mammella,Programmabile,81
+Regione_Sardegna,Ecografia ostetrica,Programmabile,37
+Regione_Sardegna,Ecografia ginecologica,Programmabile,37
+Regione_Sardegna,Ecocolordoppler degli arti superioro o inferiori,Programmabile,141
+Regione_Sardegna,Colonscopia con endoscopio flessibile,Programmabile,385
+Regione_Sardegna,Polipectomia endoscopica dell'intestino crasso,Programmabile,n/a
+Regione_Sardegna,Sigmoidoscopia con endoscopio flessibile,Programmabile,175
+Regione_Sardegna,Esofagogastroduodenoscopia,Programmabile,118
+Regione_Sardegna,Esofagogastroduodenoscopia con biopsia,Programmabile,176
+Regione_Sardegna,Elettrocardiogramma,Programmabile,151
+Regione_Sardegna,Elettrocardiogramma dinamico (Holter),Programmabile,141
+Regione_Sardegna,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,Programmabile,100
+Regione_Sardegna,Altri test cardiovascolari da sforzo,Programmabile,n/a
+Regione_Sardegna,Esame audiometrico tonale,Programmabile,45
+Regione_Sardegna,Spirometria semplice,Programmabile,100
+Regione_Sardegna,Spirometria globale,Programmabile,153
+Regione_Sardegna,Fotografia del Fondus,Programmabile,n/a
+Regione_Sardegna,Elettromiografia semplice [EMG],Programmabile,62

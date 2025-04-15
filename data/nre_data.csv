@@ -1,16 +1,16 @@
-codice_nre,codice_fiscale_paziente,nome_paziente,cognome_paziente,tipo_prescrizione,descrizione,data_prescrizione,data_scadenza,medico_prescrittore,asl_emittente,stato_ricetta,canale_invio
-NRE454769146,OKNRWP08A38Y407V,Martino,Fallaci,Farmaco,RM encefalo con contrasto,20/11/2024,03/05/2025,Dr. Ravaglioli,ASSL Sassari,Scaduta,App FSE
-NRE218141968,LEJBLL70T40L562M,Liana,Montalti,Visita specialistica,Visita cardiologica,08/03/2025,03/05/2025,Dr. Comeriato,ASSL Sassari,Erogata,SMS
-NRE910090795,CASLEK88J13P436P,Ernesto,Malpighi,Esame diagnostico,RM encefalo con contrasto,26/10/2024,03/05/2025,Dr. Cociarelli,ASSL Sassari,Da erogare,SMS
-NRE608869142,PTNGYX37Z68Q406P,Gaspare,Pavanello,Esame diagnostico,RM encefalo con contrasto,03/03/2025,03/05/2025,Dr. Morpurgo,ASSL Sassari,Erogata,Email
-NRE602365924,XFAPMT65B67K329K,Goffredo,Parri,Esame diagnostico,RM encefalo con contrasto,21/11/2024,03/05/2025,Dr. Passalacqua,ASSL Nuoro,Erogata,SMS
-NRE930630764,RKBRMK27U99D782Y,Nicoletta,Giannini,Farmaco,RM encefalo con contrasto,30/12/2024,03/05/2025,Dr. Tamburini,ASSL Nuoro,Scaduta,SMS
-NRE301164711,STAAKV09X67Z958B,Federico,Verdone,Visita specialistica,Visita cardiologica,04/03/2025,03/05/2025,Dr. Falier,ASSL Sassari,Erogata,Email
-NRE434290606,KIEPCP50O28U779I,Franco,Finotto,Visita specialistica,Visita cardiologica,21/10/2024,03/05/2025,Dr. Vigliotti,ASSL Cagliari,Da erogare,App FSE
-NRE746057008,NVUEBN51P87M855J,Mercedes,Monduzzi,Esame diagnostico,Tachipirina 500mg,30/12/2024,03/05/2025,Dr. Ferragamo,ASSL Sassari,Erogata,SMS
-NRE678033509,DGKDLF68C57Y505X,Imelda,Gremese,Esame diagnostico,RM encefalo con contrasto,14/11/2024,03/05/2025,Dr. Chiappetta,ASSL Cagliari,Erogata,App FSE
-NRE457671619,HFFCPQ42Z78V752I,Carla,Bianchi,Visita specialistica,Tachipirina 500mg,29/12/2024,03/05/2025,Dr. Vendetti,ASSL Cagliari,Erogata,SMS
-NRE494636437,HSANKU02F15U657C,Costantino,Bonino,Farmaco,RM encefalo con contrasto,27/11/2024,03/05/2025,Dr. Correr,ASSL Sassari,Erogata,App FSE
-NRE112785162,RAQZJQ64R56Y684X,Valentina,Argentero,Farmaco,RM encefalo con contrasto,20/02/2025,03/05/2025,Dr. Manacorda,ASSL Nuoro,Erogata,SMS
-NRE781504741,VFPKZW84X99J288K,Gioacchino,Andreotti,Visita specialistica,Tachipirina 500mg,29/10/2024,03/05/2025,Dr. Iadanza,ASSL Nuoro,Scaduta,SMS
-NRE472662833,VFFABC42I92O325G,Orazio,Desio,Esame diagnostico,RM encefalo con contrasto,28/02/2025,03/05/2025,Dr. Vespucci,ASSL Sassari,Scaduta,Cartaceo
+codice_nre,codice_fiscale_paziente,nome_paziente,cognome_paziente,tipo_prescrizione,descrizione,data_prescrizione,data_scadenza,medico_prescrittore,asl_emittente,stato_ricetta,canale_invio,medico_id
+NRE454769146,OKNRWP08A38Y407V,Martino,Fallaci,Farmaco,Paracetamolo 1000mg,20/11/2024,03/05/2025,Dr Bettina Zoppetto,ARNAS,Scaduta,App FSE,0390ea77-1f37-4b3c-a528-74227fdee212
+NRE218141968,LEJBLL70T40L562M,Liana,Montalti,Visita specialistica,Visita cardiologica,08/03/2025,03/05/2025,Dr Lando Cadorna,AOU CA,Erogata,SMS,10684c66-f704-411f-9601-5530b557323f
+NRE910090795,CASLEK88J13P436P,Ernesto,Malpighi,Esame diagnostico,Ecocardiogramma,26/10/2024,03/05/2025,Dr Dino Rienzo,ASSL1,Da erogare,SMS,74b3b6d0-7857-4f63-a6f1-480b56571abf
+NRE608869142,PTNGYX37Z68Q406P,Gaspare,Pavanello,Esame diagnostico,Radiografia,03/03/2025,03/05/2025,Dr Loretta Lettiere,ASSL8,Erogata,Email,0c7382fb-9c1f-43eb-b052-13e6c385b095
+NRE602365924,XFAPMT65B67K329K,Goffredo,Parri,Esame diagnostico,Elettrocardiogramma,21/11/2024,03/05/2025,Dr Luchino Berlusconi,ASSL4,Erogata,SMS,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5
+NRE930630764,RKBRMK27U99D782Y,Nicoletta,Giannini,Farmaco,Salbutamolo 1000mg,30/12/2024,03/05/2025,Dr Marco Bianchi,ASSL1,Scaduta,SMS,c14f7e6d-5e5a-4db7-bc9f-8a2e091d4ac4
+NRE301164711,STAAKV09X67Z958B,Federico,Verdone,Visita specialistica,dermatoscopia,04/03/2025,03/05/2025,Dr Giulia Ferraro,AOU SS,Erogata,Email,c0a7bfa3-ff8f-4b2d-9e2b-d66342f836b5
+NRE434290606,KIEPCP50O28U779I,Franco,Finotto,Visita specialistica,Visita per disfunzioni tiroidee,21/10/2024,03/05/2025,Dr Luca Conti,ASSL2,Da erogare,App FSE,fa0c9b1b-944e-4302-9db9-4ac48b1f1df0
+NRE746057008,NVUEBN51P87M855J,Mercedes,Monduzzi,Esame diagnostico,Valutazione multidimensionale geriatrica,30/12/2024,03/05/2025,Dr Elena Greco,ASSL5,Erogata,SMS,35689f0b-b4a5-4fc7-8c3c-df7e2b31b231
+NRE678033509,DGKDLF68C57Y505X,Imelda,Gremese,Esame diagnostico,Esame emocromocitometrico,14/11/2024,03/05/2025,Dr Matteo Rinaldi,ASSL6,Erogata,App FSE,e8e57dd0-4194-4412-bef9-08d384a3b9d9
+NRE457671619,HFFCPQ42Z78V752I,Carla,Bianchi,Visita specialistica,Visita oncologica di controllo,29/12/2024,03/05/2025,Dr Federica Marchetti,ARNAS,Erogata,SMS,b9ff69e3-6c6e-4d8a-9308-6b77d3fbbf4f
+NRE494636437,HSANKU02F15U657C,Costantino,Bonino,Farmaco,Pantoprazolo 500mg,27/11/2024,03/05/2025,Dr Andrea De Sentis,ASSL7,Erogata,App FSE,6d43816f-10dc-49b2-b1c8-048b002a64eb
+NRE112785162,RAQZJQ64R56Y684X,Valentina,Argentero,Farmaco,Paracetamolo 600mg,20/02/2025,03/05/2025,Dr Chiara Fontana,ASSL5,Erogata,SMS,2be471c4-f4f4-4ae0-bbd2-77d51d01c28a
+NRE781504741,VFPKZW84X99J288K,Gioacchino,Andreotti,Visita specialistica,Visita cardiologica,29/10/2024,03/05/2025,Dr Davide Romano,ASSL3,Scaduta,SMS,0031786a-b437-4325-90b1-f2cfd8efc918
+NRE472662833,VFFABC42I92O325G,Orazio,Desio,Esame diagnostico,Campo visivo computerizzato (perimetria automatica),28/02/2025,03/05/2025,Dr Laura Galli,AOU SS,Scaduta,Cartaceo,ae5cddee-9f91-4e4c-b155-4ad6df0bc14d

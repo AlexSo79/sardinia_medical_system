@@ -1,31 +1,31 @@
 prescrizione_id,paziente_id,medico_id,tipo,nome,posologia,data_prescrizione,stato
-4c2476a2-f4e3-4194-a631-c53a428bb75e,94a26c99-4100-4ac8-83c5-95cffde1fcbc,0c7382fb-9c1f-43eb-b052-13e6c385b095,Esame,Esame sangue,n/a,18/05/2024,In corso
-e270ddc2-727b-4b23-ba3b-cc3bf5cd3b71,40939654-c5cd-43b3-89f1-e65029330418,0c7382fb-9c1f-43eb-b052-13e6c385b095,Esame,Esame sangue,n/a,05/06/2024,Scaduta
-3e94c23c-0b06-4e2b-b8af-2df145a92ae3,a94f430c-09f5-4c94-9e78-401e1e3b64d8,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Esame,Fisioterapia,n/a,09/02/2025,Scaduta
-a8fff036-f52c-419c-9e59-e04b7f849ee5,a94f430c-09f5-4c94-9e78-401e1e3b64d8,10684c66-f704-411f-9601-5530b557323f,Terapia,Terapia cognitiva,n/a,07/02/2025,Scaduta
-39a7c60d-6e78-4d14-86e1-2c5424ac700d,dea04bb8-e2f9-43a7-8690-2ab97b5b6abf,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Esame,Tachipirina,n/a,02/10/2024,Eseguita
-be081931-42f1-43aa-817d-d72c3360ffc3,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Terapia cognitiva,n/a,18/12/2024,In corso
-6c4403c1-3703-4330-80ad-d318d67ef540,c9ac6d40-10f6-48e4-845e-783341e63a16,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Esame sangue,n/a,13/12/2024,In corso
-2b0089d5-bf72-4295-ba0c-df3da08c1caa,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,74b3b6d0-7857-4f63-a6f1-480b56571abf,Esame,Terapia cognitiva,n/a,21/11/2024,Eseguita
-95ad0a12-47b7-473b-be5e-62d3a8ac26bf,6bf05333-7197-4afb-955e-9acaa1b8f9a4,10684c66-f704-411f-9601-5530b557323f,Esame,Terapia cognitiva,n/a,27/12/2024,Eseguita
-bb812c31-d73f-41ea-9d27-78ced8900b8d,a94f430c-09f5-4c94-9e78-401e1e3b64d8,0390ea77-1f37-4b3c-a528-74227fdee212,Terapia,Fisioterapia,n/a,16/04/2024,Scaduta
-c489c4b2-2347-437c-ad02-8b437897edfa,94a26c99-4100-4ac8-83c5-95cffde1fcbc,10684c66-f704-411f-9601-5530b557323f,Farmaco,Terapia cognitiva,Optio corporis alias earum quas ab.,12/07/2024,Scaduta
-3191a6fd-2ea7-4232-84ec-706bb0bf8000,24006bff-f643-46fe-996f-b65b3d551418,10684c66-f704-411f-9601-5530b557323f,Esame,Fisioterapia,n/a,30/07/2024,Eseguita
-d7e2aaad-bf90-449d-8f8f-97c7c71c7c44,a94f430c-09f5-4c94-9e78-401e1e3b64d8,74b3b6d0-7857-4f63-a6f1-480b56571abf,Esame,Tachipirina,n/a,20/11/2024,Scaduta
-1bb1c086-2b21-40bc-902a-e2330ac8a1e1,94a26c99-4100-4ac8-83c5-95cffde1fcbc,0390ea77-1f37-4b3c-a528-74227fdee212,Terapia,Ibuprofene,n/a,17/11/2024,In corso
-0500f8f0-2191-4a17-8926-e8521a6edf28,24006bff-f643-46fe-996f-b65b3d551418,74b3b6d0-7857-4f63-a6f1-480b56571abf,Terapia,Esame sangue,n/a,08/11/2024,Eseguita
-04b1224c-bd47-4ff4-a0be-bd1175555a5d,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Tachipirina,n/a,02/07/2024,Eseguita
-1ae6885a-5e91-4a92-9d00-fd148b77a54e,d3b001fd-8631-4e94-a364-d34c22a71818,10684c66-f704-411f-9601-5530b557323f,Farmaco,RM encefalo,Similique perspiciatis earum esse officiis nobis.,23/06/2024,Eseguita
-ffba5233-2a2e-4034-93f7-720257c20801,cbf1f953-1fdc-4161-b5d3-a51cd0827ffe,0390ea77-1f37-4b3c-a528-74227fdee212,Esame,Tachipirina,n/a,04/03/2025,Eseguita
-38312974-af4f-4b56-ac43-4da9fe82abe2,d3b001fd-8631-4e94-a364-d34c22a71818,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,RM encefalo,n/a,26/03/2025,In corso
-cd0cc15c-bff2-4e73-bbd2-9238480d2f7d,6bf05333-7197-4afb-955e-9acaa1b8f9a4,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Farmaco,Terapia cognitiva,Quam culpa velit sapiente doloribus nihil.,04/02/2025,In corso
-7169d9ef-a4e1-42da-8b65-13d9d26fa333,40939654-c5cd-43b3-89f1-e65029330418,74b3b6d0-7857-4f63-a6f1-480b56571abf,Terapia,Fisioterapia,n/a,29/01/2025,Scaduta
-96b54e76-9407-49a3-aa6f-5c1a99452cde,c9ac6d40-10f6-48e4-845e-783341e63a16,0390ea77-1f37-4b3c-a528-74227fdee212,Esame,Esame sangue,n/a,17/07/2024,In corso
-beaa3376-6994-4690-9517-e69c8f2b74d4,6bf05333-7197-4afb-955e-9acaa1b8f9a4,0390ea77-1f37-4b3c-a528-74227fdee212,Farmaco,Fisioterapia,Eveniet corrupti doloremque.,18/10/2024,In corso
-4469f00c-60a5-4fcc-b38c-7456bac1e111,c9ac6d40-10f6-48e4-845e-783341e63a16,0c7382fb-9c1f-43eb-b052-13e6c385b095,Terapia,RM encefalo,n/a,18/12/2024,Eseguita
-4f4f8daf-59dc-4ccb-9218-601fec3d3852,6bf05333-7197-4afb-955e-9acaa1b8f9a4,10684c66-f704-411f-9601-5530b557323f,Terapia,Ibuprofene,n/a,22/08/2024,Eseguita
-97e2f227-56cb-4c9b-9994-5f86a83f734f,24006bff-f643-46fe-996f-b65b3d551418,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Ibuprofene,n/a,02/10/2024,Scaduta
-55e9ebb4-4d93-4e23-980e-304b65e6905d,40939654-c5cd-43b3-89f1-e65029330418,74b3b6d0-7857-4f63-a6f1-480b56571abf,Terapia,Esame sangue,n/a,27/11/2024,Scaduta
-cf9c5ff6-8fc2-48cc-8216-d82df089a97e,94a26c99-4100-4ac8-83c5-95cffde1fcbc,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Tachipirina,n/a,20/01/2025,Eseguita
-880c1c7e-508a-4806-ba7b-3119c918af99,cbf1f953-1fdc-4161-b5d3-a51cd0827ffe,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Esame,Terapia cognitiva,n/a,18/07/2024,In corso
-e1ceb5fb-099a-447f-9103-4675caafdc46,24006bff-f643-46fe-996f-b65b3d551418,0390ea77-1f37-4b3c-a528-74227fdee212,Terapia,Fisioterapia,n/a,29/07/2024,Scaduta
+4c2476a2-f4e3-4194-a631-c53a428bb75e,94a26c99-4100-4ac8-83c5-95cffde1fcbc,0c7382fb-9c1f-43eb-b052-13e6c385b095,Esame,Prima Visita oculistica,n/a,18/05/2024,In corso
+e270ddc2-727b-4b23-ba3b-cc3bf5cd3b71,40939654-c5cd-43b3-89f1-e65029330418,0c7382fb-9c1f-43eb-b052-13e6c385b095,Esame,Prima Visita pneumologica,n/a,05/06/2024,Scaduta
+3e94c23c-0b06-4e2b-b8af-2df145a92ae3,a94f430c-09f5-4c94-9e78-401e1e3b64d8,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Esame,Test cardiovascolare da sforzo con cicloergonometro o con pedana mobile,n/a,09/02/2025,Scaduta
+a8fff036-f52c-419c-9e59-e04b7f849ee5,a94f430c-09f5-4c94-9e78-401e1e3b64d8,10684c66-f704-411f-9601-5530b557323f,Terapia,Terapia anticoagulante orale,n/a,07/02/2025,Scaduta
+39a7c60d-6e78-4d14-86e1-2c5424ac700d,dea04bb8-e2f9-43a7-8690-2ab97b5b6abf,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Esame,Eco (color) dopplergrafia cardiaca,n/a,02/10/2024,Eseguita
+be081931-42f1-43aa-817d-d72c3360ffc3,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Terapia con beta-bloccanti,n/a,18/12/2024,In corso
+6c4403c1-3703-4330-80ad-d318d67ef540,c9ac6d40-10f6-48e4-845e-783341e63a16,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Terapia antiipertensiva,n/a,13/12/2024,In corso
+2b0089d5-bf72-4295-ba0c-df3da08c1caa,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,74b3b6d0-7857-4f63-a6f1-480b56571abf,Esame,Prima Visita cardiologica,n/a,21/11/2024,Eseguita
+95ad0a12-47b7-473b-be5e-62d3a8ac26bf,6bf05333-7197-4afb-955e-9acaa1b8f9a4,10684c66-f704-411f-9601-5530b557323f,Esame,Eco (color) dopplergrafia  dei tronchi sovraaortici,n/a,27/12/2024,Eseguita
+bb812c31-d73f-41ea-9d27-78ced8900b8d,a94f430c-09f5-4c94-9e78-401e1e3b64d8,0390ea77-1f37-4b3c-a528-74227fdee212,Terapia,Terapia antibiotica per infezioni respiratorie,n/a,16/04/2024,Scaduta
+c489c4b2-2347-437c-ad02-8b437897edfa,94a26c99-4100-4ac8-83c5-95cffde1fcbc,10684c66-f704-411f-9601-5530b557323f,Farmaco,Bisoprololo,"5 mg 1 compressa al mattino, a digiuno",12/07/2024,Scaduta
+3191a6fd-2ea7-4232-84ec-706bb0bf8000,24006bff-f643-46fe-996f-b65b3d551418,10684c66-f704-411f-9601-5530b557323f,Esame,Prima Visita cardiologica,n/a,30/07/2024,Eseguita
+d7e2aaad-bf90-449d-8f8f-97c7c71c7c44,a94f430c-09f5-4c94-9e78-401e1e3b64d8,74b3b6d0-7857-4f63-a6f1-480b56571abf,Esame,Prima Visita cardiologica,n/a,20/11/2024,Scaduta
+1bb1c086-2b21-40bc-902a-e2330ac8a1e1,94a26c99-4100-4ac8-83c5-95cffde1fcbc,0390ea77-1f37-4b3c-a528-74227fdee212,Terapia,Terapia antinfiammatoria non steroidea (FANS),n/a,17/11/2024,In corso
+0500f8f0-2191-4a17-8926-e8521a6edf28,24006bff-f643-46fe-996f-b65b3d551418,74b3b6d0-7857-4f63-a6f1-480b56571abf,Terapia,Terapia con statine,n/a,08/11/2024,Eseguita
+04b1224c-bd47-4ff4-a0be-bd1175555a5d,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Terapia antianginosa,n/a,02/07/2024,Eseguita
+1ae6885a-5e91-4a92-9d00-fd148b77a54e,d3b001fd-8631-4e94-a364-d34c22a71818,10684c66-f704-411f-9601-5530b557323f,Farmaco,Atorvastatina,20 mg 1 compressa la sera,23/06/2024,Eseguita
+ffba5233-2a2e-4034-93f7-720257c20801,cbf1f953-1fdc-4161-b5d3-a51cd0827ffe,0390ea77-1f37-4b3c-a528-74227fdee212,Esame,Elettrocardiogramma dinamico (Holter),n/a,04/03/2025,Eseguita
+38312974-af4f-4b56-ac43-4da9fe82abe2,d3b001fd-8631-4e94-a364-d34c22a71818,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Terapia con statine,n/a,26/03/2025,In corso
+cd0cc15c-bff2-4e73-bbd2-9238480d2f7d,6bf05333-7197-4afb-955e-9acaa1b8f9a4,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Farmaco,Ramipril,"2,5 mg 1 compressa al giorno, preferibilmente al mattino",04/02/2025,In corso
+7169d9ef-a4e1-42da-8b65-13d9d26fa333,40939654-c5cd-43b3-89f1-e65029330418,74b3b6d0-7857-4f63-a6f1-480b56571abf,Terapia,Terapia con beta-bloccanti,n/a,29/01/2025,Scaduta
+96b54e76-9407-49a3-aa6f-5c1a99452cde,c9ac6d40-10f6-48e4-845e-783341e63a16,0390ea77-1f37-4b3c-a528-74227fdee212,Esame,Elettrocardiogramma,n/a,17/07/2024,In corso
+beaa3376-6994-4690-9517-e69c8f2b74d4,6bf05333-7197-4afb-955e-9acaa1b8f9a4,0390ea77-1f37-4b3c-a528-74227fdee212,Farmaco,Amoxicillina,"500 mg ogni 8 ore, per 6-7 giorni",18/10/2024,In corso
+4469f00c-60a5-4fcc-b38c-7456bac1e111,c9ac6d40-10f6-48e4-845e-783341e63a16,0c7382fb-9c1f-43eb-b052-13e6c385b095,Terapia,Terapia antipiretica con paracetamolo,n/a,18/12/2024,Eseguita
+4f4f8daf-59dc-4ccb-9218-601fec3d3852,6bf05333-7197-4afb-955e-9acaa1b8f9a4,10684c66-f704-411f-9601-5530b557323f,Terapia,Terapia antiipertensiva,n/a,22/08/2024,Eseguita
+97e2f227-56cb-4c9b-9994-5f86a83f734f,24006bff-f643-46fe-996f-b65b3d551418,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Terapia antianginosa,n/a,02/10/2024,Scaduta
+55e9ebb4-4d93-4e23-980e-304b65e6905d,40939654-c5cd-43b3-89f1-e65029330418,74b3b6d0-7857-4f63-a6f1-480b56571abf,Terapia,Terapia con beta-bloccanti,n/a,27/11/2024,Scaduta
+cf9c5ff6-8fc2-48cc-8216-d82df089a97e,94a26c99-4100-4ac8-83c5-95cffde1fcbc,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Terapia,Terapia antiipertensiva,n/a,20/01/2025,Eseguita
+880c1c7e-508a-4806-ba7b-3119c918af99,cbf1f953-1fdc-4161-b5d3-a51cd0827ffe,b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Esame,Eco (color) dopplergrafia  dei tronchi sovraaortici,n/a,18/07/2024,In corso
+e1ceb5fb-099a-447f-9103-4675caafdc46,24006bff-f643-46fe-996f-b65b3d551418,0390ea77-1f37-4b3c-a528-74227fdee212,Terapia,Terapia ipoglicemizzante orale per diabete tipo 2,n/a,29/07/2024,Scaduta

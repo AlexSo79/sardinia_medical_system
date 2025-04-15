@@ -1,21 +1,21 @@
-﻿vaccinazione_id,paziente_id,tipo_vaccino,data_somministrazione,dose,luogo
-85568619-c78a-4d6d-976a-c8a8ab89cd94,a94f430c-09f5-4c94-9e78-401e1e3b64d8,Antinfluenzale,22/09/2022,1,Ospedale Brotzu
-0a5b6169-8b75-4fc8-90a4-e0507d86da4e,94a26c99-4100-4ac8-83c5-95cffde1fcbc,Tetano,06/02/2024,1,Policlinico Sassari
-7010e758-7bd4-4336-9c6b-294292660c1f,c9ac6d40-10f6-48e4-845e-783341e63a16,COVID-19,01/12/2024,1,AOU Cagliari
-13f967d0-a989-4073-bb78-c21b3b3ccb22,94a26c99-4100-4ac8-83c5-95cffde1fcbc,Antinfluenzale,05/08/2022,R,Ospedale Brotzu
-eaa8e4b9-d6d3-4643-859f-d5203a5bf9d2,cbf1f953-1fdc-4161-b5d3-a51cd0827ffe,Tetano,03/08/2023,2,AOU Cagliari
-d46514d7-d7a3-41ab-ad04-322a0b17311c,24006bff-f643-46fe-996f-b65b3d551418,Epatite B,03/11/2024,2,Ospedale San Francesco
-5ad3e79d-7c8a-46bd-894a-bbfe6f2120fa,94a26c99-4100-4ac8-83c5-95cffde1fcbc,Antinfluenzale,14/07/2023,2,Ospedale Brotzu
-4718a68f-4a54-403a-8500-45dfa1c3c05b,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,Epatite B,02/10/2022,1,Policlinico Sassari
-7e14eddf-d074-410d-bf54-0459250089c4,dea04bb8-e2f9-43a7-8690-2ab97b5b6abf,COVID-19,30/10/2022,1,AOU Cagliari
-5fb71c79-8fb6-49cc-831d-163d0d23bf0e,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,Antinfluenzale,02/10/2024,R,Ospedale San Francesco
-c44741fe-2a5f-4dac-a6d8-fe33446f3434,24006bff-f643-46fe-996f-b65b3d551418,Antinfluenzale,15/03/2025,1,Ospedale San Francesco
-f08daff4-e06f-412b-ace5-d94f79f5233e,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,Antinfluenzale,10/04/2022,1,Ospedale Brotzu
-9947a9bf-2f82-462e-9859-63677c5ad412,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,Tetano,26/09/2024,R,Policlinico Sassari
-ea2c848f-e94d-429a-a7fa-1fbbb7b7fc0b,94a26c99-4100-4ac8-83c5-95cffde1fcbc,Tetano,10/07/2023,2,Ospedale Brotzu
-e4f3fd97-db8e-4f02-93fb-ea89e8367e70,40939654-c5cd-43b3-89f1-e65029330418,Tetano,15/08/2024,R,Policlinico Sassari
-7078ec91-43b9-43c3-bfbe-1b56c9dff900,6bf05333-7197-4afb-955e-9acaa1b8f9a4,Tetano,26/12/2022,R,Ospedale Brotzu
-0fe63f85-f151-41f6-a6ab-97ac36279043,24006bff-f643-46fe-996f-b65b3d551418,Epatite B,06/04/2024,1,Policlinico Sassari
-d5fb8cbe-ed06-4c72-ab01-1d1a5dcd4fda,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,Epatite B,02/10/2022,1,Ospedale Brotzu
-6f1c8465-b4a2-43d5-9a70-36f656ce9c66,40939654-c5cd-43b3-89f1-e65029330418,Antinfluenzale,27/05/2023,1,Policlinico Sassari
-44f96ced-ddd7-4d23-a59e-7b08f2e6f037,dea04bb8-e2f9-43a7-8690-2ab97b5b6abf,Tetano,21/06/2024,R,Policlinico Sassari
+﻿vaccinazione_id,paziente_id,tipo_vaccino,data_somministrazione,dose,ente,ospedale,luogo
+85568619-c78a-4d6d-976a-c8a8ab89cd94,94a26c99-4100-4ac8-83c5-95cffde1fcbc,Antinfluenzale,22/09/2022,1,ASSL1,Ospedale Santissima Annunziata,Sassari
+0a5b6169-8b75-4fc8-90a4-e0507d86da4e,24006bff-f643-46fe-996f-b65b3d551418,Tetano,06/02/2024,1,ASSL1,Ospedale Civile,Alghero
+7010e758-7bd4-4336-9c6b-294292660c1f,6bf05333-7197-4afb-955e-9acaa1b8f9a4,COVID-19,01/12/2024,1,ASSL1,Ospedale Antonio Segni,Ozieri
+13f967d0-a989-4073-bb78-c21b3b3ccb22,27d6010c-a6bb-4e4c-8e11-14acfa2c882e,Antinfluenzale,05/08/2022,R,ASSL2,Ospedale San Giovanni di Dio,Olbia
+eaa8e4b9-d6d3-4643-859f-d5203a5bf9d2,dea04bb8-e2f9-43a7-8690-2ab97b5b6abf,Tetano,03/08/2023,2,ASSL2,Ospedale Paolo Dettori,Tempio Pausania
+d46514d7-d7a3-41ab-ad04-322a0b17311c,cbf1f953-1fdc-4161-b5d3-a51cd0827ffe,Epatite B,03/11/2024,2,ASSL2,Ospedale Paolo Merlo,La Maddalena
+5ad3e79d-7c8a-46bd-894a-bbfe6f2120fa,d3b001fd-8631-4e94-a364-d34c22a71818,Antinfluenzale,14/07/2023,2,ASSL3,Ospedale San Francesco,Nuoro
+4718a68f-4a54-403a-8500-45dfa1c3c05b,c9ac6d40-10f6-48e4-845e-783341e63a16,Epatite B,02/10/2022,1,ASSL3,Ospedale Cesare Zonchello,Nuoro
+7e14eddf-d074-410d-bf54-0459250089c4,a94f430c-09f5-4c94-9e78-401e1e3b64d8,COVID-19,30/10/2022,1,ASSL3,Ospedale San Camillo,Sorgono
+5fb71c79-8fb6-49cc-831d-163d0d23bf0e,40939654-c5cd-43b3-89f1-e65029330418,Antinfluenzale,02/10/2024,R,ASSL4,Ospedale Nostra Signora della Mercede,Lanusei
+c44741fe-2a5f-4dac-a6d8-fe33446f3434,59f1420a-89d1-49e5-973e-b58d7ae0c472,Antinfluenzale,15/03/2025,1,ASSL5,Ospedale San Martino,Oristano
+f08daff4-e06f-412b-ace5-d94f79f5233e,4a83c1d7-5b7a-47cd-90c8-d2eb3cfe4bc5,Antinfluenzale,10/04/2022,1,ASSL1,Ospedale Santissima Annunziata,Sassari
+9947a9bf-2f82-462e-9859-63677c5ad412,7b8a2e90-3ff2-4e9e-bd6e-906b8e1d1c1a,Tetano,26/09/2024,R,ASSL5,Ospedale G.P. Delogu,Ghilarza
+ea2c848f-e94d-429a-a7fa-1fbbb7b7fc0b,3f5c0b2e-fd1a-43a9-a037-4dc15a8a6f78,Tetano,10/07/2023,2,ASSL6,Ospedale Nostra Signora di Bonaria,San Gavino Monreale
+e4f3fd97-db8e-4f02-93fb-ea89e8367e70,21c84d63-7c9d-49d6-86f4-b3647b7e2a01,Tetano,15/08/2024,R,ASSL7,Ospedale Sirai,Carbonia
+7078ec91-43b9-43c3-bfbe-1b56c9dff900,6d4e0123-b1a4-4456-9269-4372c4fbd055,Tetano,26/12/2022,R,ASSL2,Ospedale San Giovanni di Dio,Olbia
+0fe63f85-f151-41f6-a6ab-97ac36279043,9a735f7e-5d14-4b87-9876-00e41ed1c222,Epatite B,06/04/2024,1,ASSL8,Ospedale San Marcellino,Muravera
+d5fb8cbe-ed06-4c72-ab01-1d1a5dcd4fda,a94dfe29-142d-4b0b-8a30-029ab3d8e3d8,Epatite B,02/10/2022,1,ARNAS,Ospedale San Michele,Cagliari
+6f1c8465-b4a2-43d5-9a70-36f656ce9c66,c157a994-fd31-4b0e-a5df-f650c8930ccf,Antinfluenzale,27/05/2023,1,AOU SS,Policlinico Universitario,Sassari
+44f96ced-ddd7-4d23-a59e-7b08f2e6f037,34df22f8-7051-49b0-8f2f-2a8f8f8a10dd,Tetano,21/06/2024,R,AOU CA,Ospedale San Giovanni di Dio,Cagliari

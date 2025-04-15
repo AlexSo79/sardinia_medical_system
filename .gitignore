@@ -8,3 +8,5 @@ Lib/
 share/
 Include/
 etc/
+data_cleansing/
+docs/

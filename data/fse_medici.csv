@@ -1,6 +1,21 @@
-medico_id,nome,cognome,codice_fiscale,specializzazione,asl_appartenenza,email,telefono
-0390ea77-1f37-4b3c-a528-74227fdee212,Bettina,Zoppetto,GTGYLJ08W17Y289L,Medicina Generale,ASSL Cagliari,trillinigiulietta@fabbri.eu,+39 319 62 35 4410
-10684c66-f704-411f-9601-5530b557323f,Lando,Cadorna,GSERET98C84Q382S,Cardiologia,ASSL Olbia,wtaliani@cabibbo-ferrazzi.it,+39 6235 7463010
-74b3b6d0-7857-4f63-a6f1-480b56571abf,Dino,Rienzo,TLVKRT34Q30U081S,Cardiologia,ASSL Olbia,chinnicilucio@moccia.org,+39 880 2261344
-0c7382fb-9c1f-43eb-b052-13e6c385b095,Loretta,Lettiere,EWLDVO08V30X664I,Pediatria,ASSL Sassari,danielejovinelli@yahoo.com,+39 976 87691324
-b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Luchino,Berlusconi,NTGYJF37G85A265W,Cardiologia,ASSL Oristano,goffredo09@virgilio.it,+39 392 63286016
+medico_id,nome,cognome,codice_fiscale,specializzazione,ente,ospedale,email,telefono,nome_completo_medico
+0390ea77-1f37-4b3c-a528-74227fdee212,Bettina,Zoppetto,GTGYLJ08W17Y289L,Medicina Generale,ARNAS,Ospedale San Michele,bettina.zoppetto@gmail.com,0039 327 8492,Dr Bettina Zoppetto
+10684c66-f704-411f-9601-5530b557323f,Lando,Cadorna,GSERET98C84Q382S,Cardiologia,AOU CA,Ospedale San Giovanni di Dio,lando.cadorna@bccal.fac,0039 345 1038,Dr Lando Cadorna
+74b3b6d0-7857-4f63-a6f1-480b56571abf,Dino,Rienzo,TLVKRT34Q30U081S,Cardiologia,ASSL1,Ospedale Santissima Annunziata,dino.rienzo@bc6din.fic,0039 339 7621,Dr Dino Rienzo
+0c7382fb-9c1f-43eb-b052-13e6c385b095,Loretta,Lettiere,EWLDVO08V30X664I,Pediatria,ASSL8,Ospedale San Marcellino,loretta.lettiere@sp2fb-9c1fni.eep,0039 320 9845,Dr Loretta Lettiere
+b7e0ed33-a9fc-445a-a3af-207cd1f8b5b5,Luchino,Berlusconi,NTGYJF37G85A265W,Cardiologia,ASSL4,Ospedale Nostra Signora della Mercede,luchino.berlusconi@icd33-a9fc-445a-aff.fec,0039 366 7104,Dr Luchino Berlusconi
+c14f7e6d-5e5a-4db7-bc9f-8a2e091d4ac4,Marco,Bianchi,QWERTY67L89P123X,Pneumologia,ASSL1,Ospedale Antonio Segni,marco.bianchi@.ri,0039 328 5902,Dr Marco Bianchi
+c0a7bfa3-ff8f-4b2d-9e2b-d66342f836b5,Giulia,Ferraro,AZXCVB92M17N654D,Dermatologia,AOU SS,Policlinico Universitario,giulia.ferraro@ga.ao,0039 392 1406,Dr Giulia Ferraro
+fa0c9b1b-944e-4302-9db9-4ac48b1f1df0,Luca,Conti,LKJHGF38S45A876B,Endocrinologia,ASSL2,Ospedale San Giovanni di Dio,luca.conti@tio.un,0039 334 7810,Dr Luca Conti
+35689f0b-b4a5-4fc7-8c3c-df7e2b31b231,Elena,Greco,MNBVCX91T23Z789K,Geriatria,ASSL5,Ospedale San Martino,elena.greco@com.ee,0039 377 0364,Dr Elena Greco
+e8e57dd0-4194-4412-bef9-08d384a3b9d9,Matteo,Rinaldi,POIUYT65G98B321L,Medicina Generale,ASSL6,Ospedale Nostra Signora di Bonaria,matteo.rinaldi@.oi,0039 350 9482,Dr Matteo Rinaldi
+b9ff69e3-6c6e-4d8a-9308-6b77d3fbbf4f,Federica,Marchetti,ZXCVBN84H76M452J,Oncologia,ARNAS,Ospedale Oncologico Armando Businco,federica.marchetti@tim.it,0039 338 1023,Dr Federica Marchetti
+6d43816f-10dc-49b2-b1c8-048b002a64eb,Andrea,De Sentis,TREWQL28X39P567H,Gastroenterologia,ASSL7,Ospedale Sirai,andrea.de sentis@isp.at,0039 324 8751,Dr Andrea De Sentis
+2be471c4-f4f4-4ae0-bbd2-77d51d01c28a,Chiara,Fontana,ASDFGH90L65V238Z,Medicina Generale,ASSL5,Ospedale G.A. Mastino,chiara.fontana@se.aa,0039 346 2093,Dr Chiara Fontana
+0031786a-b437-4325-90b1-f2cfd8efc918,Davide,Romano,YUIOPK49D32B178W,Cardiologia,ASSL3,Ospedale San Camillo,davide.romano@nor.ea,0039 360 1745,Dr Davide Romano
+ae5cddee-9f91-4e4c-b155-4ad6df0bc14d,Laura,Galli,GHJKLO73Q84X095V,Oculistica,AOU SS,Clinica di Oculistica,laura.galli@li.ul,0039 386 9021,Dr Laura Galli
+96df5123-4178-486f-9b6d-c0cfbbd3f03a,Simone,Moretti,BNMLKA55C61T307R,Dermatologia,ASSL2,Ospedale Paolo Dettori,simone.moretti@na.ei,0039 349 5182,Dr Simone Moretti
+9b8e9d14-2784-4d08-9b11-701e214f15bc,Martina,Barone,PLMOKN37E42Y860F,Geriatria,ASSL3,Ospedale San Francesco,martina.barone@nero.no,0039 331 6674,Dr Martina Barone
+263f8aa9-95dc-465e-a182-59e37d7f5dff,Paolo,Sorrentino,WSXEDC60U91N243T,Neurologia,ASSL7,Ospedale CTO,paolo.sorrentino@inocosta.ot,0039 343 0291,Dr Paolo Sorrentino
+bcb96247-f25b-40f6-b149-6e14a3b19c92,Alessia,Leone,VFRBGT20H74J519E,Endocrinologia,ASSL1,Ospedale Civile,alessia.leone@nega.io,0039 355 7180,Dr Alessia Leone
+e1a203a1-2c4a-485b-b116-8c160c76f170,Stefano,Pellegrini,NHYTFD43Q58K126M,Medicina Generale,AOU CA,Policlinico Duilio Casula,stefano.pellegrini@inidel.nr,0039 341 2869,Dr Stefano Pellegrini
